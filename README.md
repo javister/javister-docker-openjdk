@@ -1,6 +1,6 @@
 # Базовый образ OpenJDK 8
 
-|[ ![Download](https://api.bintray.com/packages/javister/docker/javister%3Ajavister-docker-openjdk/images/download.svg) ](https://bintray.com/javister/docker/javister%3Ajavister-docker-openjdk/_latestVersion)|
+[ ![Download](https://api.bintray.com/packages/javister/docker/javister%3Ajavister-docker-openjdk/images/download.svg) ](https://bintray.com/javister/docker/javister%3Ajavister-docker-openjdk/_latestVersion)
 
 Данный образ базируется на образе [javister-docker-base](https://github.com/javister/javister-docker-base).
 

@@ -4,7 +4,7 @@ LABEL java=8
 
 COPY files /
 
-ENV RPMLIST="java-1.8.0-openjdk-devel cabextract xorg-x11-font-utils fontconfig"
+ENV BASE_RPMLIST="$BASE_RPMLIST java-1.8.0-openjdk-devel cabextract xorg-x11-font-utils fontconfig"
 
 RUN . /usr/local/sbin/yum-proxy && \
     yum-install && \

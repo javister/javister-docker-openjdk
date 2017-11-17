@@ -8,7 +8,7 @@ ENV BASE_RPMLIST="$BASE_RPMLIST java-1.8.0-openjdk-devel cabextract xorg-x11-fon
     JVM_OPTS="-server -showversion" \
     JAVA_HOME="/usr/lib/jvm/java"
 
-RUN . /usr/local/sbin/yum-proxy && \
+RUN . /usr/local/bin/yum-proxy && \
     yum-install && \
     echo '*** Setup MS Core Fonts' && \
     https_proxy=$https_proxy rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm && \

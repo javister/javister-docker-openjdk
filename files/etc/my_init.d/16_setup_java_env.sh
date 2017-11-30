@@ -2,7 +2,7 @@
 
 [ "${LOG_LEVEL}" == "DEBUG" ] && echo -n " -showversion " >> /etc/container_environment/JVM_OPTS
 
-[ "${LOCALE}" ] && echo -n "-Dfile.encoding=${LOCALE} " >> /etc/container_environment/JVM_OPTS
+[ "${LOCALE}" ] && echo -n " -Dfile.encoding=${LOCALE} " >> /etc/container_environment/JVM_OPTS
 [ "${LANGUAGE}" ] && echo -n "-Duser.language=${LANGUAGE} " >> /etc/container_environment/JVM_OPTS
 [ "${COUNTRY}" ] && echo -n "-Duser.country=${COUNTRY} " >> /etc/container_environment/JVM_OPTS
 [ "${TZ}" ] && echo -n "-Duser.timezone=${TZ} " >> /etc/container_environment/JVM_OPTS

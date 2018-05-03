@@ -5,7 +5,7 @@ LABEL java=8
 COPY files /
 
 ENV BASE_RPMLIST="$BASE_RPMLIST java-1.8.0-openjdk-devel cabextract xorg-x11-font-utils fontconfig" \
-    JVM_OPTS="-server" \
+    JVM_OPTS=" -server " \
     JAVA_HOME="/usr/lib/jvm/java"
 
 RUN . /usr/local/bin/yum-proxy && \

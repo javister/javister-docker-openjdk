@@ -1,4 +1,4 @@
-FROM javister-docker-docker.bintray.io/javister/javister-docker-base:1.0
+FROM javister-docker-docker.bintray.io/javister/javister-docker-base:1.1
 MAINTAINER Viktor Verbitsky <vektory79@gmail.com>
 LABEL java=8
 

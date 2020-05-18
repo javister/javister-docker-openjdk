@@ -2,7 +2,7 @@ ARG JAVISTER_BASE_VERSION
 FROM javister-docker-docker.bintray.io/javister/javister-docker-base:${JAVISTER_BASE_VERSION}
 MAINTAINER Viktor Verbitsky <vektory79@gmail.com>
 
-ENV JDK_VERSION=11
+ARG JDK_VERSION=11
 ENV BASE_RPMLIST="${BASE_RPMLIST} java-${JDK_VERSION}-openjdk-devel cabextract xorg-x11-font-utils fontconfig"
 
 RUN . /usr/local/bin/yum-proxy && \

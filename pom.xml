@@ -28,8 +28,8 @@
 
     <properties>
         <!-- Project Version -->
-        <revision>1.0</revision>
-        <changelist></changelist>
+        <revision>1.1</revision>
+        <changelist>-SNAPSHOT</changelist>
         <sha1/>
         <!-- Settings -->
         <docker.image.artifactId>javister-docker-openjdk</docker.image.artifactId>

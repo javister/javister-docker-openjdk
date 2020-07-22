@@ -9,6 +9,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.EnumSource;
 import org.mockserver.client.MockServerClient;
 import org.mockserver.mock.Expectation;
+import org.mockserver.model.HttpRequest;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testcontainers.containers.MockServerContainer;
@@ -48,7 +49,7 @@ class DirectImageIT {
             MockServerClient proxyClient = new MockServerClient(proxyServer.getContainerIpAddress(), proxyServer.getMappedPort(1080));
             Expectation[] expectations = proxyClient.retrieveRecordedExpectations(request("/"));
             Assertions.assertEquals("Hello, world!", expectations[0].getHttpResponse().getBodyAsString());
-            Assertions.assertFalse(expectations[0].getHttpRequest().containsHeader("Proxy-Authorization"), "Авторизация на прокси должна отсутствовать");
+            Assertions.assertFalse(((HttpRequest)expectations[0].getHttpRequest()).containsHeader("Proxy-Authorization"), "Авторизация на прокси должна отсутствовать");
         }
     }
 
@@ -75,7 +76,7 @@ class DirectImageIT {
         public Stand(Variant variant, Class<?> testClass) {
             mserver = DirectImageIT.getMserver(variant, testClass);
 
-            proxyServer = new MockServerContainer("5.10.0") {
+            proxyServer = new MockServerContainer("5.11.1") {
                 // Workaround for https://github.com/moby/moby/issues/40740
                 @Override
                 protected void containerIsStarting(InspectContainerResponse containerInfo) {

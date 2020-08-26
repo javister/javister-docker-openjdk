@@ -57,7 +57,9 @@ jobs:
           server-password: MAVEN_PASSWORD
       - name: Build and Check
         if: env.doRebuild == 'true'
-        run: mvn --no-transfer-progress -Dstyle.color=always -Ddockerfile.build.noCache=true verify
+        run: |
+          echo "<settings><mirrors><mirror><id>google-maven-central</id><name>GCS Maven Central mirror</name><url>https://maven-central.storage-download.googleapis.com/repos/central/data/</url><mirrorOf>central</mirrorOf></mirror></mirrors></settings>" > ~/.m2/settings.xml
+          mvn --no-transfer-progress -Dstyle.color=always -Ddockerfile.build.noCache=true verify
         env:
           MAVEN_USERNAME: ${{ secrets.BINTRAY_USER }}
           MAVEN_PASSWORD: ${{ secrets.BINTRAY_PASSWORD }}

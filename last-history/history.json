@@ -1,0 +1,82 @@
+{
+  "b875015cdecfa33d32a0add69d0007e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ca8b30115e2997f",
+      "reportUrl" : "https://javister.github.io/javister-docker-openjdk/48//#testresult/4ca8b30115e2997f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600448356219,
+        "stop" : 1600448360532,
+        "duration" : 4313
+      }
+    } ]
+  },
+  "61517e23747a5a7cbe3abc5a32e11d1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e267465da4bb7e1a",
+      "reportUrl" : "https://javister.github.io/javister-docker-openjdk/48//#testresult/e267465da4bb7e1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600448293163,
+        "stop" : 1600448334275,
+        "duration" : 41112
+      }
+    } ]
+  },
+  "f1b4d6dea009ffb702bb56621368d64d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b63a315d18a12d3d",
+      "reportUrl" : "https://javister.github.io/javister-docker-openjdk/48//#testresult/b63a315d18a12d3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600448360557,
+        "stop" : 1600448364960,
+        "duration" : 4403
+      }
+    } ]
+  },
+  "4fc9c74acc627fb0d81d8eed595b49d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb45b5c3e7f8116a",
+      "reportUrl" : "https://javister.github.io/javister-docker-openjdk/48//#testresult/fb45b5c3e7f8116a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600448334445,
+        "stop" : 1600448356168,
+        "duration" : 21723
+      }
+    } ]
+  }
+}

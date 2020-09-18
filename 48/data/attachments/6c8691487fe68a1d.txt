@@ -1,0 +1,30 @@
+16:58:14.456 [34mINFO [0;39m - Found docker client settings from environment 
+16:58:14.458 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+16:58:14.712 [34mINFO [0;39m - Docker host IP address is localhost 
+16:58:14.764 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.12+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+16:58:14.811 [31mWARN [0;39m - Failure when attempting to lookup auth config (dockerImageName: testcontainersofficial/ryuk:0.3.0, configFile: /home/runner/.docker/config.json. Falling back to docker-java default behaviour. Exception message: /home/runner/.docker/config.json (No such file or directory) 
+16:58:16.890 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+16:58:16.891 [34mINFO [0;39m - Checking the system... 
+16:58:16.892 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+16:58:17.340 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+16:58:18.314 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:58:26.069 [34mINFO [0;39m - Creating container for image: testcontainers/5iaqfxqs7g1jet7d:latest 
+16:58:26.101 [34mINFO [0;39m - Starting container with ID: 004d526f39c0196cb4cc39e646f3d035a0622c5ae3854b1ce5a3cca3a5705a41 
+16:58:26.673 [34mINFO [0;39m - Container testcontainers/5iaqfxqs7g1jet7d:latest is starting: 004d526f39c0196cb4cc39e646f3d035a0622c5ae3854b1ce5a3cca3a5705a41 
+16:58:26.703 [34mINFO [0;39m - /wonderful_bartik: Waiting for 60 seconds for URL: http://localhost:32769/ 
+16:58:30.178 [34mINFO [0;39m - Container testcontainers/5iaqfxqs7g1jet7d:latest started in PT12.622S 
+16:58:30.197 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+16:58:35.719 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+16:58:38.819 [34mINFO [0;39m - Starting container with ID: b2020a07a4540791f6003cad2968744265ecc5eca132e8e02f17d6d8cdf43a17 
+16:58:39.270 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: b2020a07a4540791f6003cad2968744265ecc5eca132e8e02f17d6d8cdf43a17 
+16:58:39.395 [34mINFO [0;39m - /affectionate_dijkstra: Waiting for 60 seconds for URL: http://localhost:32770/ 
+16:58:41.700 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT11.517S 
+16:58:41.738 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+16:58:44.298 [34mINFO [0;39m - Creating container for image: testcontainers/nol37uxxum3yyzye:latest 
+16:58:44.320 [34mINFO [0;39m - Starting container with ID: 3dce9094fae1164b590f14fdc31e573ce52345fc939512fd7429df771b8becd9 
+16:58:44.745 [34mINFO [0;39m - Container testcontainers/nol37uxxum3yyzye:latest is starting: 3dce9094fae1164b590f14fdc31e573ce52345fc939512fd7429df771b8becd9 
+16:58:44.766 [34mINFO [0;39m - Container testcontainers/nol37uxxum3yyzye:latest started in PT3.052S 

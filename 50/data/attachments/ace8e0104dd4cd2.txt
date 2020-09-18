@@ -1,0 +1,11 @@
+17:21:03.734 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+17:21:03.749 [34mINFO [0;39m - Creating container for image: testcontainers/muqmrbdpxfnz3jjm:latest 
+17:21:03.767 [34mINFO [0;39m - Starting container with ID: 95ebaa243cbb9d6c6edb1583c214d2e7b17689d556bc09a1a0e32e20c67dca1b 
+17:21:04.163 [34mINFO [0;39m - Container testcontainers/muqmrbdpxfnz3jjm:latest is starting: 95ebaa243cbb9d6c6edb1583c214d2e7b17689d556bc09a1a0e32e20c67dca1b 
+17:21:04.166 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+17:21:04.170 [34mINFO [0;39m - /competent_roentgen: Waiting for 60 seconds for URL: http://localhost:32776/ 
+17:21:07.256 [34mINFO [0;39m - Container testcontainers/muqmrbdpxfnz3jjm:latest started in PT4.041S 

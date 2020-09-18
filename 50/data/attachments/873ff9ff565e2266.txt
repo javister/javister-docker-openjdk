@@ -1,0 +1,16 @@
+17:20:40.754 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+17:20:48.048 [34mINFO [0;39m - Creating container for image: testcontainers/67ni8vwvd7nmuzva:latest 
+17:20:48.072 [34mINFO [0;39m - Starting container with ID: a88887e3fcf686fb005abf39afdc1bafb40d5eb3b20310741d856afebedefa8c 
+17:20:48.575 [34mINFO [0;39m - Container testcontainers/67ni8vwvd7nmuzva:latest is starting: a88887e3fcf686fb005abf39afdc1bafb40d5eb3b20310741d856afebedefa8c 
+17:20:48.599 [34mINFO [0;39m - /eager_ganguly: Waiting for 60 seconds for URL: http://localhost:32772/ 
+17:20:52.706 [34mINFO [0;39m - Container testcontainers/67ni8vwvd7nmuzva:latest started in PT12.558S 
+17:20:52.708 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+17:20:52.733 [34mINFO [0;39m - Starting container with ID: 46712855a6a2eb12fb53eaa0e67744461e712e0c1253447c646d70b111167cd5 
+17:20:53.102 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 46712855a6a2eb12fb53eaa0e67744461e712e0c1253447c646d70b111167cd5 
+17:20:53.172 [34mINFO [0;39m - /loving_wu: Waiting for 60 seconds for URL: http://localhost:32773/ 
+17:20:54.893 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.184S 
+17:20:54.898 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+17:20:58.031 [34mINFO [0;39m - Creating container for image: testcontainers/xvvmov2bossgyrr3:latest 
+17:20:58.054 [34mINFO [0;39m - Starting container with ID: d94ec22eec421c13dd9132366799afb9652a54c7b4f952917d449c0cacfeb5bd 
+17:20:58.401 [34mINFO [0;39m - Container testcontainers/xvvmov2bossgyrr3:latest is starting: d94ec22eec421c13dd9132366799afb9652a54c7b4f952917d449c0cacfeb5bd 
+17:20:58.408 [34mINFO [0;39m - Container testcontainers/xvvmov2bossgyrr3:latest started in PT3.515S 

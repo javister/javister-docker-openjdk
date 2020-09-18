@@ -1,0 +1,94 @@
+{
+  "uid" : "e3331328d1331039",
+  "name" : "OpenJDK release: V8",
+  "fullName" : "com.github.javister.docker.testing.openjdk.DirectImageIT.proxyRequestTest",
+  "historyId" : "61517e23747a5a7cbe3abc5a32e11d1e",
+  "time" : {
+    "start" : 1600449517462,
+    "stop" : 1600449556123,
+    "duration" : 38661
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f08d90218f76e28e",
+      "name" : "Stdout",
+      "source" : "f08d90218f76e28e.txt",
+      "type" : "text/plain",
+      "size" : 3171
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az128"
+  }, {
+    "name" : "thread",
+    "value" : "6149@fv-az128.ForkJoinPool-1-worker-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "testClass",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "testMethod",
+    "value" : "proxyRequestTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e267465da4bb7e1a",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/48//#testresult/e267465da4bb7e1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600448293163,
+          "stop" : 1600448334275,
+          "duration" : 41112
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e3331328d1331039.json",
+  "parameterValues" : [ ]
+}

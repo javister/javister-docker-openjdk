@@ -1,0 +1,11 @@
+17:19:38.405 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+17:19:38.421 [34mINFO [0;39m - Creating container for image: testcontainers/hfqmgwtmxgepesuk:latest 
+17:19:38.437 [34mINFO [0;39m - Starting container with ID: fe86bf8f88340abd8ba642bc1c6a6e809e159f4739cb892155ba6e5bad6a5942 
+17:19:38.822 [34mINFO [0;39m - Container testcontainers/hfqmgwtmxgepesuk:latest is starting: fe86bf8f88340abd8ba642bc1c6a6e809e159f4739cb892155ba6e5bad6a5942 
+17:19:38.839 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+17:19:38.841 [34mINFO [0;39m - /goofy_kapitsa: Waiting for 60 seconds for URL: http://localhost:32776/ 
+17:19:41.917 [34mINFO [0;39m - Container testcontainers/hfqmgwtmxgepesuk:latest started in PT4.008S 

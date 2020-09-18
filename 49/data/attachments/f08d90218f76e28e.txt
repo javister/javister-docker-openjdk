@@ -1,0 +1,30 @@
+17:18:38.603 [34mINFO [0;39m - Found docker client settings from environment 
+17:18:38.605 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+17:18:38.841 [34mINFO [0;39m - Docker host IP address is localhost 
+17:18:38.887 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.12+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+17:18:38.932 [31mWARN [0;39m - Failure when attempting to lookup auth config (dockerImageName: testcontainersofficial/ryuk:0.3.0, configFile: /home/runner/.docker/config.json. Falling back to docker-java default behaviour. Exception message: /home/runner/.docker/config.json (No such file or directory) 
+17:18:40.601 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+17:18:40.601 [34mINFO [0;39m - Checking the system... 
+17:18:40.602 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+17:18:40.865 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+17:18:41.575 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+17:18:49.071 [34mINFO [0;39m - Creating container for image: testcontainers/5auwupej35mvaets:latest 
+17:18:49.117 [34mINFO [0;39m - Starting container with ID: f5dff1b1172e4426dff6f8fe070cacc678b4a735d972c044f4b70137fbff02ff 
+17:18:49.541 [34mINFO [0;39m - Container testcontainers/5auwupej35mvaets:latest is starting: f5dff1b1172e4426dff6f8fe070cacc678b4a735d972c044f4b70137fbff02ff 
+17:18:49.575 [34mINFO [0;39m - /focused_elgamal: Waiting for 60 seconds for URL: http://localhost:32769/ 
+17:18:53.035 [34mINFO [0;39m - Container testcontainers/5auwupej35mvaets:latest started in PT12.007S 
+17:18:53.053 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+17:18:58.157 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+17:19:01.270 [34mINFO [0;39m - Starting container with ID: 3a0bac0794ace481bf0537989ca9ee07467a4b7b4e8d7086c718c3721327d18e 
+17:19:01.696 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 3a0bac0794ace481bf0537989ca9ee07467a4b7b4e8d7086c718c3721327d18e 
+17:19:01.765 [34mINFO [0;39m - /angry_chaplygin: Waiting for 60 seconds for URL: http://localhost:32770/ 
+17:19:04.024 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT10.986S 
+17:19:04.055 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+17:19:07.042 [34mINFO [0;39m - Creating container for image: testcontainers/znmszhwdzzmr9nr1:latest 
+17:19:07.067 [34mINFO [0;39m - Starting container with ID: 72404cbba99e5fd325e8e22b911bf995ec765cfad379a83d3402300ac2a82f71 
+17:19:07.481 [34mINFO [0;39m - Container testcontainers/znmszhwdzzmr9nr1:latest is starting: 72404cbba99e5fd325e8e22b911bf995ec765cfad379a83d3402300ac2a82f71 
+17:19:07.498 [34mINFO [0;39m - Container testcontainers/znmszhwdzzmr9nr1:latest started in PT3.448S 

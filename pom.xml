@@ -9,7 +9,7 @@
     <parent>
         <artifactId>base-root</artifactId>
         <groupId>com.github.javister.docker</groupId>
-        <version>2.5</version>
+        <version>2.6</version>
     </parent>
     
     <scm>
@@ -34,8 +34,7 @@
         <!-- Settings -->
         <docker.image.artifactId>javister-docker-openjdk</docker.image.artifactId>
         <!-- Dependency versions -->
-        <javister-docker-base.revision>2.5</javister-docker-base.revision>
-        <javister-docker-base.version>2.5</javister-docker-base.version>
+        <javister-docker-base.version>2.6</javister-docker-base.version>
     </properties>
 
     <modules>
@@ -53,7 +52,6 @@
         </repository>
     </distributionManagement>
 
-
     <repositories>
         <repository>
             <id>central</id>
@@ -64,6 +62,15 @@
             <id>bintray-javister-dockertesting</id>
             <name>bintray</name>
             <url>https://dl.bintray.com/javister/dockertesting</url>
+        </repository>
+        <repository>
+            <id>krista-oss</id>
+            <name>krista-oss</name>
+            <url>http://artifactory.krista.ru/artifactory/maven-krista-nexus-open-source</url>
+        </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
     </repositories>
     <pluginRepositories>

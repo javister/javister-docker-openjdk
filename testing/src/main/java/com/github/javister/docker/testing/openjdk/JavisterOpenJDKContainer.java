@@ -132,6 +132,10 @@ public class JavisterOpenJDKContainer<SELF extends JavisterOpenJDKContainer<SELF
         return variant.getValue();
     }
 
+    public Variant getJdkVariant() {
+        return variant;
+    }
+
     public SELF withJvmOptions(String options) {
         jvmOptions = new StringBuilder(options);
         return self();
@@ -322,12 +326,12 @@ public class JavisterOpenJDKContainer<SELF extends JavisterOpenJDKContainer<SELF
                     .withStartupTimeout(Duration.of(10, ChronoUnit.MINUTES))
                     .withLogConsumer(waitConsumer);
 
-            String debugSuspend = System.getenv("DOCKER_WILDFLY_DEBUG_SUSPEND");
+            String debugSuspend = System.getenv("DOCKER_JAVA_DEBUG_SUSPEND");
             if (debugSuspend != null) {
                 this.withDebugSuspend(Boolean.parseBoolean(debugSuspend));
             }
 
-            String debugPortEnv = System.getenv("DOCKER_WILDFLY_DEBUG_PORT");
+            String debugPortEnv = System.getenv("DOCKER_JAVA_DEBUG_PORT");
             if (debugPortEnv != null) {
                 this.withDebugPort(Integer.parseInt(debugPortEnv));
             }

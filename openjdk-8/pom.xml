@@ -16,6 +16,8 @@
     <properties>
         <openjdk-major.version>8</openjdk-major.version>
         <openjdk.version>1.8.0</openjdk.version>
+        <image.tag>${openjdk-major.version}-${project.version}</image.tag>
+        <cache.from>${docker.image}:${image.tag}</cache.from>
     </properties>
     
     <build>
@@ -54,10 +56,10 @@
                         <configuration>
                             <repository>${docker.image}</repository>
                             <useMavenSettingsForAuth>true</useMavenSettingsForAuth>
-                            <tag>${openjdk-major.version}-${revision}</tag>
-                            <cacheFrom>${docker.image}:${openjdk-major.version}-${revision}</cacheFrom>
+                            <tag>${image.tag}</tag>
+                            <cacheFrom>${cache.from}</cacheFrom>
                             <buildArgs>
-                                <JAVISTER_BASE_VERSION>${javister-docker-base.revision}</JAVISTER_BASE_VERSION>
+                                <JAVISTER_BASE_VERSION>${javister-docker-base.version}</JAVISTER_BASE_VERSION>
                                 <JDK_VERSION>${openjdk.version}</JDK_VERSION>
                                 <https_proxy>${env.http_proxy}</https_proxy>
                                 <no_proxy>${env.no_proxy}</no_proxy>
@@ -125,10 +127,10 @@
                         <configuration>
                             <repository>${docker.image}</repository>
                             <useMavenSettingsForAuth>true</useMavenSettingsForAuth>
-                            <tag>${openjdk-major.version}-${revision}</tag>
-                            <cacheFrom>${docker.image}:${openjdk-major.version}-${revision}</cacheFrom>
+                            <tag>${image.tag}</tag>
+                            <cacheFrom>${cache.from}</cacheFrom>
                             <buildArgs>
-                                <JAVISTER_BASE_VERSION>${javister-docker-base.revision}</JAVISTER_BASE_VERSION>
+                                <JAVISTER_BASE_VERSION>${javister-docker-base.version}</JAVISTER_BASE_VERSION>
                                 <JDK_VERSION>${openjdk.version}</JDK_VERSION>
                                 <https_proxy>${env.http_proxy}</https_proxy>
                                 <no_proxy>${env.no_proxy}</no_proxy>
@@ -166,10 +168,10 @@
                         <configuration>
                             <repository>${docker.image}</repository>
                             <useMavenSettingsForAuth>true</useMavenSettingsForAuth>
-                            <tag>${openjdk-major.version}-${revision}</tag>
-                            <cacheFrom>${docker.image}:${openjdk-major.version}-${revision}</cacheFrom>
+                            <tag>${image.tag}</tag>
+                            <cacheFrom>${cache.from}</cacheFrom>
                             <buildArgs>
-                                <JAVISTER_BASE_VERSION>${javister-docker-base.revision}</JAVISTER_BASE_VERSION>
+                                <JAVISTER_BASE_VERSION>${javister-docker-base.version}</JAVISTER_BASE_VERSION>
                                 <JDK_VERSION>${openjdk.version}</JDK_VERSION>
                                 <https_proxy>${env.http_proxy}</https_proxy>
                                 <no_proxy>${env.no_proxy}</no_proxy>

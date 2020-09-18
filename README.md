@@ -1,9 +1,9 @@
 # Базовый образ OpenJDK 8
 
 
-[ ![Download](https://api.bintray.com/packages/javister/docker/javister%3Ajavister-docker-openjdk/images/download.svg?version=8-1.1) ](https://bintray.com/javister/docker/javister%3Ajavister-docker-openjdk/8-1.1/link)
-[ ![Download](https://api.bintray.com/packages/javister/docker/javister%3Ajavister-docker-openjdk/images/download.svg?version=11-1.1) ](https://bintray.com/javister/docker/javister%3Ajavister-docker-openjdk/11-1.1/link)
-[ ![Download](https://api.bintray.com/packages/javister/dockertesting/javister-docker-openjdk/images/download.svg) ](https://bintray.com/javister/dockertesting/javister-docker-openjdk/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/javister/docker/javister%3Ajavister-docker-openjdk/images/download.svg?version=8-1.2) ](https://bintray.com/javister/docker/javister%3Ajavister-docker-openjdk/8-1.2/link)
+[ ![Download](https://api.bintray.com/packages/javister/docker/javister%3Ajavister-docker-openjdk/images/download.svg?version=11-1.2) ](https://bintray.com/javister/docker/javister%3Ajavister-docker-openjdk/11-1.2/link)
+[ ![Download](https://api.bintray.com/packages/javister/dockertesting/javister-docker-openjdk/images/download.svg?version=1.2) ](https://bintray.com/javister/dockertesting/javister-docker-openjdk/1.2/link)
 ![Build master branch](https://github.com/javister/javister-docker-openjdk/workflows/Build%20master%20branch/badge.svg)
 
 Данный образ базируется на образе [javister-docker-base](https://github.com/javister/javister-docker-base).

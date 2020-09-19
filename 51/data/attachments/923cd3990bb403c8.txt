@@ -1,0 +1,11 @@
+09:37:12.286 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:37:12.303 [34mINFO [0;39m - Creating container for image: testcontainers/9tmkb4cvhvqmbvpa:latest 
+09:37:12.321 [34mINFO [0;39m - Starting container with ID: 66fe06629548fb922f8c49e905b6334bb32efb15c32d8db3b0ba62c1df99c40b 
+09:37:12.703 [34mINFO [0;39m - Container testcontainers/9tmkb4cvhvqmbvpa:latest is starting: 66fe06629548fb922f8c49e905b6334bb32efb15c32d8db3b0ba62c1df99c40b 
+09:37:12.707 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+09:37:12.726 [34mINFO [0;39m - /great_mayer: Waiting for 60 seconds for URL: http://localhost:32778/ 
+09:37:15.810 [34mINFO [0;39m - Container testcontainers/9tmkb4cvhvqmbvpa:latest started in PT4S 

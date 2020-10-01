@@ -1,0 +1,16 @@
+06:27:41.995 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:27:50.546 [34mINFO [0;39m - Creating container for image: testcontainers/2yzacyb7a9tmwkfv:latest 
+06:27:50.568 [34mINFO [0;39m - Starting container with ID: d8b41e7e4619412e4eac654895e773b31f7bc977561c9a98f187ec30b712869c 
+06:27:50.991 [34mINFO [0;39m - Container testcontainers/2yzacyb7a9tmwkfv:latest is starting: d8b41e7e4619412e4eac654895e773b31f7bc977561c9a98f187ec30b712869c 
+06:27:51.006 [34mINFO [0;39m - /awesome_blackwell: Waiting for 60 seconds for URL: http://localhost:32773/ 
+06:27:54.111 [34mINFO [0;39m - Container testcontainers/2yzacyb7a9tmwkfv:latest started in PT12.728S 
+06:27:54.111 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:27:54.158 [34mINFO [0;39m - Starting container with ID: 7d3acd07edd5cea14f324a0d9f36e38ecdaa6a446e8e4a084df06a02f162e885 
+06:27:54.584 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 7d3acd07edd5cea14f324a0d9f36e38ecdaa6a446e8e4a084df06a02f162e885 
+06:27:54.739 [34mINFO [0;39m - /youthful_lamport: Waiting for 60 seconds for URL: http://localhost:32775/ 
+06:27:56.360 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.249S 
+06:27:56.371 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:27:59.043 [34mINFO [0;39m - Creating container for image: testcontainers/frxztobswgleu2bh:latest 
+06:27:59.064 [34mINFO [0;39m - Starting container with ID: f847127300f451f81c390152fb3b5c683262602ce81956ea975ea47851873cd5 
+06:27:59.479 [34mINFO [0;39m - Container testcontainers/frxztobswgleu2bh:latest is starting: f847127300f451f81c390152fb3b5c683262602ce81956ea975ea47851873cd5 
+06:27:59.492 [34mINFO [0;39m - Container testcontainers/frxztobswgleu2bh:latest started in PT3.131S 

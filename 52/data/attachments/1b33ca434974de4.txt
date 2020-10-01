@@ -1,0 +1,30 @@
+06:26:54.141 [34mINFO [0;39m - Found docker client settings from environment 
+06:26:54.143 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+06:26:54.522 [34mINFO [0;39m - Docker host IP address is localhost 
+06:26:54.583 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.12+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+06:26:54.656 [31mWARN [0;39m - Failure when attempting to lookup auth config (dockerImageName: testcontainersofficial/ryuk:0.3.0, configFile: /home/runner/.docker/config.json. Falling back to docker-java default behaviour. Exception message: /home/runner/.docker/config.json (No such file or directory) 
+06:26:57.301 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+06:26:57.302 [34mINFO [0;39m - Checking the system... 
+06:26:57.302 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+06:26:57.584 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+06:26:58.557 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:27:07.501 [34mINFO [0;39m - Creating container for image: testcontainers/zkzkobebhqovxmtn:latest 
+06:27:07.575 [34mINFO [0;39m - Starting container with ID: cc6b27e5ef019a12a710b281a4a6f2b8ce8d6a1aaf60c529547a095f05237bfb 
+06:27:08.145 [34mINFO [0;39m - Container testcontainers/zkzkobebhqovxmtn:latest is starting: cc6b27e5ef019a12a710b281a4a6f2b8ce8d6a1aaf60c529547a095f05237bfb 
+06:27:08.201 [34mINFO [0;39m - /loving_clarke: Waiting for 60 seconds for URL: http://localhost:32769/ 
+06:27:11.974 [34mINFO [0;39m - Container testcontainers/zkzkobebhqovxmtn:latest started in PT14.141S 
+06:27:11.991 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+06:27:19.855 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:27:22.962 [34mINFO [0;39m - Starting container with ID: fb5fec2b81742031785b18777455a285facce45fc43356c1886a1b69800f2dfe 
+06:27:23.497 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: fb5fec2b81742031785b18777455a285facce45fc43356c1886a1b69800f2dfe 
+06:27:23.679 [34mINFO [0;39m - /stoic_satoshi: Waiting for 60 seconds for URL: http://localhost:32771/ 
+06:27:25.979 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT13.996S 
+06:27:26.003 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:27:29.428 [34mINFO [0;39m - Creating container for image: testcontainers/stqrqszywvktlmcs:latest 
+06:27:29.457 [34mINFO [0;39m - Starting container with ID: d0d33339e550ec1b465812fc905cbaa03bcba59098f6a76271f62ad99dcb8d1f 
+06:27:29.966 [34mINFO [0;39m - Container testcontainers/stqrqszywvktlmcs:latest is starting: d0d33339e550ec1b465812fc905cbaa03bcba59098f6a76271f62ad99dcb8d1f 
+06:27:29.995 [34mINFO [0;39m - Container testcontainers/stqrqszywvktlmcs:latest started in PT3.999S 

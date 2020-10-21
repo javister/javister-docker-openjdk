@@ -1,0 +1,16 @@
+17:52:49.670 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+17:52:57.048 [34mINFO [0;39m - Creating container for image: testcontainers/msehnteirhsd2oan:latest 
+17:52:57.070 [34mINFO [0;39m - Starting container with ID: a2b9c6d796fcaa40314b703840ca21299d3ba16d9cabef2c714cd8e9f1ca1fb8 
+17:52:57.513 [34mINFO [0;39m - Container testcontainers/msehnteirhsd2oan:latest is starting: a2b9c6d796fcaa40314b703840ca21299d3ba16d9cabef2c714cd8e9f1ca1fb8 
+17:52:57.542 [34mINFO [0;39m - /hopeful_goodall: Waiting for 60 seconds for URL: http://localhost:32772/ 
+17:53:01.652 [34mINFO [0;39m - Container testcontainers/msehnteirhsd2oan:latest started in PT12.697S 
+17:53:01.653 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+17:53:01.670 [34mINFO [0;39m - Starting container with ID: 57388b897a5a787e818bc015722a0b23e03d18d1b90633b421f7512812bb725d 
+17:53:02.023 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 57388b897a5a787e818bc015722a0b23e03d18d1b90633b421f7512812bb725d 
+17:53:02.099 [34mINFO [0;39m - /zen_lamarr: Waiting for 60 seconds for URL: http://localhost:32773/ 
+17:53:03.836 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.183S 
+17:53:03.839 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+17:53:06.035 [34mINFO [0;39m - Creating container for image: testcontainers/eisegbkcuxmtza4i:latest 
+17:53:06.060 [34mINFO [0;39m - Starting container with ID: e0ff0717172f41c0ca55ee5f9905141ad5170c166ef51ad17e3ee33be7e2615a 
+17:53:06.408 [34mINFO [0;39m - Container testcontainers/eisegbkcuxmtza4i:latest is starting: e0ff0717172f41c0ca55ee5f9905141ad5170c166ef51ad17e3ee33be7e2615a 
+17:53:06.416 [34mINFO [0;39m - Container testcontainers/eisegbkcuxmtza4i:latest started in PT2.58S 

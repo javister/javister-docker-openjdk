@@ -1,0 +1,11 @@
+17:53:11.551 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+17:53:11.568 [34mINFO [0;39m - Creating container for image: testcontainers/hzhwd9tjkuw6shie:latest 
+17:53:11.586 [34mINFO [0;39m - Starting container with ID: f928f2e7a35997b1e76d4c17e847ab62f18418d1a7fca06764a501b32af75d1b 
+17:53:11.993 [34mINFO [0;39m - Container testcontainers/hzhwd9tjkuw6shie:latest is starting: f928f2e7a35997b1e76d4c17e847ab62f18418d1a7fca06764a501b32af75d1b 
+17:53:12.004 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+17:53:12.009 [34mINFO [0;39m - /musing_northcutt: Waiting for 60 seconds for URL: http://localhost:32776/ 
+17:53:15.107 [34mINFO [0;39m - Container testcontainers/hzhwd9tjkuw6shie:latest started in PT4.038S 

@@ -1,0 +1,74 @@
+{
+  "uid" : "a19e71d2b07d19cf",
+  "name" : "OpenJDK release: V11",
+  "fullName" : "com.github.javister.docker.testing.openjdk.DirectImageIT.debugTest",
+  "historyId" : "f1b4d6dea009ffb702bb56621368d64d",
+  "time" : {
+    "start" : 1603302795387,
+    "stop" : 1603302799646,
+    "duration" : 4259
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e2ddf3a4520add48",
+      "name" : "Stdout",
+      "source" : "e2ddf3a4520add48.txt",
+      "type" : "text/plain",
+      "size" : 867
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az176-53"
+  }, {
+    "name" : "thread",
+    "value" : "6089@fv-az176-53.ForkJoinPool-1-worker-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "testClass",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "testMethod",
+    "value" : "debugTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a19e71d2b07d19cf.json",
+  "parameterValues" : [ ]
+}

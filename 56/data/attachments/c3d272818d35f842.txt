@@ -1,0 +1,16 @@
+18:10:23.247 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+18:10:30.037 [34mINFO [0;39m - Creating container for image: testcontainers/nuuouyrbmjck6rcf:latest 
+18:10:30.064 [34mINFO [0;39m - Starting container with ID: d15b22fe5d730dfae76d9d441a2eb4ed761014c682dac268474b97be5e704297 
+18:10:30.468 [34mINFO [0;39m - Container testcontainers/nuuouyrbmjck6rcf:latest is starting: d15b22fe5d730dfae76d9d441a2eb4ed761014c682dac268474b97be5e704297 
+18:10:30.472 [34mINFO [0;39m - /xenodochial_tereshkova: Waiting for 60 seconds for URL: http://localhost:32772/ 
+18:10:33.557 [34mINFO [0;39m - Container testcontainers/nuuouyrbmjck6rcf:latest started in PT10.707S 
+18:10:33.558 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+18:10:33.581 [34mINFO [0;39m - Starting container with ID: ac233faa61638fd31f5d811b3130b7fb494ddadd00664c1c81ceed7f04b4329b 
+18:10:33.969 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: ac233faa61638fd31f5d811b3130b7fb494ddadd00664c1c81ceed7f04b4329b 
+18:10:34.030 [34mINFO [0;39m - /pensive_shockley: Waiting for 60 seconds for URL: http://localhost:32773/ 
+18:10:35.789 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.231S 
+18:10:35.802 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+18:10:38.029 [34mINFO [0;39m - Creating container for image: testcontainers/y3z9fetytrlrcdh2:latest 
+18:10:38.050 [34mINFO [0;39m - Starting container with ID: 90dac1916d058a4dcf23539354ce5ef8db6417b3994b473e818af25b51b0291a 
+18:10:38.337 [34mINFO [0;39m - Container testcontainers/y3z9fetytrlrcdh2:latest is starting: 90dac1916d058a4dcf23539354ce5ef8db6417b3994b473e818af25b51b0291a 
+18:10:38.345 [34mINFO [0;39m - Container testcontainers/y3z9fetytrlrcdh2:latest started in PT2.555S 

@@ -1,0 +1,11 @@
+18:10:46.664 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+18:10:46.675 [34mINFO [0;39m - Creating container for image: testcontainers/xgiwqbkln53dc8ba:latest 
+18:10:46.701 [34mINFO [0;39m - Starting container with ID: 2fed98c81bfaae517c94446b9dbc564abc910595218930565aa7c31b1b5d7a03 
+18:10:47.022 [34mINFO [0;39m - Container testcontainers/xgiwqbkln53dc8ba:latest is starting: 2fed98c81bfaae517c94446b9dbc564abc910595218930565aa7c31b1b5d7a03 
+18:10:47.030 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+18:10:47.033 [34mINFO [0;39m - /focused_antonelli: Waiting for 60 seconds for URL: http://localhost:32778/ 
+18:10:50.103 [34mINFO [0;39m - Container testcontainers/xgiwqbkln53dc8ba:latest started in PT3.809S 

@@ -1,0 +1,11 @@
+18:03:08.658 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+18:03:08.673 [34mINFO [0;39m - Creating container for image: testcontainers/q9eawueazdytsaij:latest 
+18:03:08.703 [34mINFO [0;39m - Starting container with ID: cf7321f79b02f7ac9fd62af053422bdb7c630d299c1d4bf9ddf8bb278b186e69 
+18:03:09.102 [34mINFO [0;39m - Container testcontainers/q9eawueazdytsaij:latest is starting: cf7321f79b02f7ac9fd62af053422bdb7c630d299c1d4bf9ddf8bb278b186e69 
+18:03:09.107 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+18:03:09.121 [34mINFO [0;39m - /compassionate_franklin: Waiting for 60 seconds for URL: http://localhost:32778/ 
+18:03:12.220 [34mINFO [0;39m - Container testcontainers/q9eawueazdytsaij:latest started in PT4.054S 

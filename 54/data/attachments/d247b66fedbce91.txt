@@ -1,0 +1,11 @@
+18:03:13.099 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+18:03:13.113 [34mINFO [0;39m - Creating container for image: testcontainers/7m6qst6bjt8dzb71:latest 
+18:03:13.132 [34mINFO [0;39m - Starting container with ID: e0047339193ae3bfb06b49cbca500f57c66bf59ef0dd714b4a24b5b8fab166df 
+18:03:13.508 [34mINFO [0;39m - Container testcontainers/7m6qst6bjt8dzb71:latest is starting: e0047339193ae3bfb06b49cbca500f57c66bf59ef0dd714b4a24b5b8fab166df 
+18:03:13.512 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+18:03:13.514 [34mINFO [0;39m - /pensive_mirzakhani: Waiting for 60 seconds for URL: http://localhost:32780/ 
+18:03:16.603 [34mINFO [0;39m - Container testcontainers/7m6qst6bjt8dzb71:latest started in PT4.065S 

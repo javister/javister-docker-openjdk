@@ -1,0 +1,41 @@
+[ {
+  "uid" : "9097458ade9f4ea6",
+  "name" : "OpenJDK release: V8",
+  "time" : {
+    "start" : 1603703467411,
+    "stop" : 1603703506585,
+    "duration" : 39174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "150e0e59d7ae9cff",
+  "name" : "OpenJDK release: V8",
+  "time" : {
+    "start" : 1603703528206,
+    "stop" : 1603703532494,
+    "duration" : 4288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52efd7d44c731dc3",
+  "name" : "OpenJDK release: V11",
+  "time" : {
+    "start" : 1603703506685,
+    "stop" : 1603703528117,
+    "duration" : 21432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1a87e35ad76c71b",
+  "name" : "OpenJDK release: V11",
+  "time" : {
+    "start" : 1603703532498,
+    "stop" : 1603703536827,
+    "duration" : 4329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

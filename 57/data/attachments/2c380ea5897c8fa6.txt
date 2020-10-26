@@ -1,0 +1,11 @@
+06:53:34.249 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:53:34.269 [34mINFO [0;39m - Creating container for image: testcontainers/7j2pevgd2zrjmcwm:latest 
+06:53:34.298 [34mINFO [0;39m - Starting container with ID: 72334febed4099b30dec0b79c97b85e48fb3bd8b6557a10c58976cc1ffa3e310 
+06:53:34.662 [34mINFO [0;39m - Container testcontainers/7j2pevgd2zrjmcwm:latest is starting: 72334febed4099b30dec0b79c97b85e48fb3bd8b6557a10c58976cc1ffa3e310 
+06:53:34.671 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+06:53:34.687 [34mINFO [0;39m - /eloquent_shockley: Waiting for 60 seconds for URL: http://localhost:32776/ 
+06:53:37.771 [34mINFO [0;39m - Container testcontainers/7j2pevgd2zrjmcwm:latest started in PT3.969S 

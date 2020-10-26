@@ -1,0 +1,11 @@
+06:53:38.499 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:53:38.512 [34mINFO [0;39m - Creating container for image: testcontainers/qxorldeff7ky4lw7:latest 
+06:53:38.526 [34mINFO [0;39m - Starting container with ID: 0bd580f82ffe69c68ba2cb1b24308fe85aa7b45c68afb156fcd4a380dda6ffea 
+06:53:38.877 [34mINFO [0;39m - Container testcontainers/qxorldeff7ky4lw7:latest is starting: 0bd580f82ffe69c68ba2cb1b24308fe85aa7b45c68afb156fcd4a380dda6ffea 
+06:53:38.894 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+06:53:38.897 [34mINFO [0;39m - /beautiful_perlman: Waiting for 60 seconds for URL: http://localhost:32778/ 
+06:53:41.983 [34mINFO [0;39m - Container testcontainers/qxorldeff7ky4lw7:latest started in PT3.931S 

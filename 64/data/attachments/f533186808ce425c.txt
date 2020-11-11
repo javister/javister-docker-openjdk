@@ -1,0 +1,11 @@
+11:47:45.371 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+11:47:45.388 [34mINFO [0;39m - Creating container for image: testcontainers/m5k6phrzq4fkjitb:latest 
+11:47:45.405 [34mINFO [0;39m - Starting container with ID: c09e17ced1b5f7abe8674b63f0317f55cf527fe573eaa81b2066eccbaa20ff86 
+11:47:45.786 [34mINFO [0;39m - Container testcontainers/m5k6phrzq4fkjitb:latest is starting: c09e17ced1b5f7abe8674b63f0317f55cf527fe573eaa81b2066eccbaa20ff86 
+11:47:45.790 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+11:47:45.799 [34mINFO [0;39m - /boring_galileo: Waiting for 60 seconds for URL: http://localhost:32778/ 
+11:47:48.899 [34mINFO [0;39m - Container testcontainers/m5k6phrzq4fkjitb:latest started in PT4.054S 

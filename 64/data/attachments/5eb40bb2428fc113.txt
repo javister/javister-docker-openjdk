@@ -1,0 +1,16 @@
+11:47:24.126 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+11:47:31.046 [34mINFO [0;39m - Creating container for image: testcontainers/ddp8ef9fhayan7qh:latest 
+11:47:31.082 [34mINFO [0;39m - Starting container with ID: 2acd567da9a66c8db15c532cae5b0bf0381e037b446ba218d474e677291a202f 
+11:47:31.551 [34mINFO [0;39m - Container testcontainers/ddp8ef9fhayan7qh:latest is starting: 2acd567da9a66c8db15c532cae5b0bf0381e037b446ba218d474e677291a202f 
+11:47:31.559 [34mINFO [0;39m - /interesting_yonath: Waiting for 60 seconds for URL: http://localhost:32773/ 
+11:47:35.691 [34mINFO [0;39m - Container testcontainers/ddp8ef9fhayan7qh:latest started in PT12.11S 
+11:47:35.694 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+11:47:35.712 [34mINFO [0;39m - Starting container with ID: f659657b1b148e633c72efad31bd5ac801509f4802d55b19a9936d671a0b918c 
+11:47:36.079 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: f659657b1b148e633c72efad31bd5ac801509f4802d55b19a9936d671a0b918c 
+11:47:36.185 [34mINFO [0;39m - /upbeat_antonelli: Waiting for 60 seconds for URL: http://localhost:32775/ 
+11:47:37.873 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.179S 
+11:47:37.877 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+11:47:40.031 [34mINFO [0;39m - Creating container for image: testcontainers/mwqqxhojdg4abu6u:latest 
+11:47:40.053 [34mINFO [0;39m - Starting container with ID: ac063ab6b30262bba47f501e9b9f4f9f9cc3d4f496cd1ec3ae92baa3d55c5bfd 
+11:47:40.405 [34mINFO [0;39m - Container testcontainers/mwqqxhojdg4abu6u:latest is starting: ac063ab6b30262bba47f501e9b9f4f9f9cc3d4f496cd1ec3ae92baa3d55c5bfd 
+11:47:40.425 [34mINFO [0;39m - Container testcontainers/mwqqxhojdg4abu6u:latest started in PT2.552S 

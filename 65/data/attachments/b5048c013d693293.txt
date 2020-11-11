@@ -1,0 +1,11 @@
+13:10:07.298 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:10:07.313 [34mINFO [0;39m - Creating container for image: testcontainers/tzpck5ucck3zabjj:latest 
+13:10:07.334 [34mINFO [0;39m - Starting container with ID: dafa68fd755990fe11ebd802346c560c6455d4e9edbc5a86d02d0d92ec74d26f 
+13:10:07.741 [34mINFO [0;39m - Container testcontainers/tzpck5ucck3zabjj:latest is starting: dafa68fd755990fe11ebd802346c560c6455d4e9edbc5a86d02d0d92ec74d26f 
+13:10:07.748 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+13:10:07.782 [34mINFO [0;39m - /cool_wright: Waiting for 60 seconds for URL: http://localhost:32778/ 
+13:10:10.880 [34mINFO [0;39m - Container testcontainers/tzpck5ucck3zabjj:latest started in PT4.118S 

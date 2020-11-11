@@ -1,0 +1,11 @@
+13:10:02.887 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:10:02.903 [34mINFO [0;39m - Creating container for image: testcontainers/vgmcruopp1qpkj4h:latest 
+13:10:02.924 [34mINFO [0;39m - Starting container with ID: 9e26283015eb6b6871783d3d34ecca1197a333525249a45b28132d27d4d20e89 
+13:10:03.317 [34mINFO [0;39m - Container testcontainers/vgmcruopp1qpkj4h:latest is starting: 9e26283015eb6b6871783d3d34ecca1197a333525249a45b28132d27d4d20e89 
+13:10:03.323 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+13:10:03.342 [34mINFO [0;39m - /musing_volhard: Waiting for 60 seconds for URL: http://localhost:32776/ 
+13:10:06.462 [34mINFO [0;39m - Container testcontainers/vgmcruopp1qpkj4h:latest started in PT4.156S 

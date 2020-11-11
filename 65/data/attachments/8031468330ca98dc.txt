@@ -1,0 +1,16 @@
+13:09:39.954 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:09:47.055 [34mINFO [0;39m - Creating container for image: testcontainers/e2crmemekheedqyw:latest 
+13:09:47.078 [34mINFO [0;39m - Starting container with ID: bc35641080dfebd3c4e1d66d90393c1f22558557ceb5c49866351189df63b446 
+13:09:47.566 [34mINFO [0;39m - Container testcontainers/e2crmemekheedqyw:latest is starting: bc35641080dfebd3c4e1d66d90393c1f22558557ceb5c49866351189df63b446 
+13:09:47.591 [34mINFO [0;39m - /condescending_gagarin: Waiting for 60 seconds for URL: http://localhost:32772/ 
+13:09:51.690 [34mINFO [0;39m - Container testcontainers/e2crmemekheedqyw:latest started in PT12.434S 
+13:09:51.690 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+13:09:51.708 [34mINFO [0;39m - Starting container with ID: 5511e03fa686a0277f452d53841fe66bab619cd726ab84668b6d6710b45075c5 
+13:09:52.087 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 5511e03fa686a0277f452d53841fe66bab619cd726ab84668b6d6710b45075c5 
+13:09:52.168 [34mINFO [0;39m - /dazzling_lalande: Waiting for 60 seconds for URL: http://localhost:32773/ 
+13:09:53.890 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.2S 
+13:09:53.896 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+13:09:57.033 [34mINFO [0;39m - Creating container for image: testcontainers/veujr3akzsmv2j5b:latest 
+13:09:57.055 [34mINFO [0;39m - Starting container with ID: 3e423d51f5dfadd66b060d057f2b8c8d4ff2134e683e0dbe66b080d4c9b720cb 
+13:09:57.416 [34mINFO [0;39m - Container testcontainers/veujr3akzsmv2j5b:latest is starting: 3e423d51f5dfadd66b060d057f2b8c8d4ff2134e683e0dbe66b080d4c9b720cb 
+13:09:57.430 [34mINFO [0;39m - Container testcontainers/veujr3akzsmv2j5b:latest started in PT3.538S 

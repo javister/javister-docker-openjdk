@@ -1,0 +1,29 @@
+13:08:58.285 [34mINFO [0;39m - Found docker client settings from environment 
+13:08:58.286 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+13:08:58.493 [34mINFO [0;39m - Docker host IP address is localhost 
+13:08:58.539 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.13+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+13:09:01.180 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+13:09:01.180 [34mINFO [0;39m - Checking the system... 
+13:09:01.182 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+13:09:01.626 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+13:09:02.742 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:09:10.082 [34mINFO [0;39m - Creating container for image: testcontainers/4gjjgqljkpdmerji:latest 
+13:09:10.153 [34mINFO [0;39m - Starting container with ID: 14b3d5aa0d7e641193c1a630d88e10f253c548651044be4f33ea338767df0c2f 
+13:09:10.632 [34mINFO [0;39m - Container testcontainers/4gjjgqljkpdmerji:latest is starting: 14b3d5aa0d7e641193c1a630d88e10f253c548651044be4f33ea338767df0c2f 
+13:09:10.719 [34mINFO [0;39m - /naughty_wing: Waiting for 60 seconds for URL: http://localhost:32769/ 
+13:09:14.881 [34mINFO [0;39m - Container testcontainers/4gjjgqljkpdmerji:latest started in PT13.035S 
+13:09:14.890 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+13:09:20.404 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+13:09:23.498 [34mINFO [0;39m - Starting container with ID: 94c8d524fcdc7921635829cdb5d5cb00425c0852e92c61edd74e99611eb63d0f 
+13:09:23.956 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 94c8d524fcdc7921635829cdb5d5cb00425c0852e92c61edd74e99611eb63d0f 
+13:09:24.092 [34mINFO [0;39m - /upbeat_euler: Waiting for 60 seconds for URL: http://localhost:32770/ 
+13:09:26.419 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT11.536S 
+13:09:26.472 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+13:09:29.049 [34mINFO [0;39m - Creating container for image: testcontainers/jwosqh75e6s5vx9n:latest 
+13:09:29.072 [34mINFO [0;39m - Starting container with ID: a83777bc1ee132c637706bcde9aada672373a445d348bdd23cc4190d6862c07c 
+13:09:29.530 [34mINFO [0;39m - Container testcontainers/jwosqh75e6s5vx9n:latest is starting: a83777bc1ee132c637706bcde9aada672373a445d348bdd23cc4190d6862c07c 
+13:09:29.547 [34mINFO [0;39m - Container testcontainers/jwosqh75e6s5vx9n:latest started in PT3.106S 

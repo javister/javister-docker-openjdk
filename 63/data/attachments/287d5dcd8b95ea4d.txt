@@ -1,0 +1,11 @@
+10:51:32.229 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:51:32.254 [34mINFO [0;39m - Creating container for image: testcontainers/sgy4kr46suglhvjl:latest 
+10:51:32.277 [34mINFO [0;39m - Starting container with ID: db5e5a296e33443cb788338d73a41ed52c82babce4bde82c8e37d681b23aa784 
+10:51:32.664 [34mINFO [0;39m - Container testcontainers/sgy4kr46suglhvjl:latest is starting: db5e5a296e33443cb788338d73a41ed52c82babce4bde82c8e37d681b23aa784 
+10:51:32.678 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+10:51:32.684 [34mINFO [0;39m - /happy_knuth: Waiting for 60 seconds for URL: http://localhost:32780/ 
+10:51:35.772 [34mINFO [0;39m - Container testcontainers/sgy4kr46suglhvjl:latest started in PT4.064S 

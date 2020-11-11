@@ -1,0 +1,16 @@
+10:04:17.986 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:04:25.047 [34mINFO [0;39m - Creating container for image: testcontainers/bj7guryu5tatlsko:latest 
+10:04:25.068 [34mINFO [0;39m - Starting container with ID: 9bedaefe86cd4d4185bc455b180847505a3bb0bc531e759dac9da28d0378b07e 
+10:04:25.511 [34mINFO [0;39m - Container testcontainers/bj7guryu5tatlsko:latest is starting: 9bedaefe86cd4d4185bc455b180847505a3bb0bc531e759dac9da28d0378b07e 
+10:04:25.520 [34mINFO [0;39m - /zealous_sinoussi: Waiting for 60 seconds for URL: http://localhost:32772/ 
+10:04:28.623 [34mINFO [0;39m - Container testcontainers/bj7guryu5tatlsko:latest started in PT11.348S 
+10:04:28.624 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:04:28.653 [34mINFO [0;39m - Starting container with ID: 2b930794a3cc3b4610d3055fbda632b043f774378f1c8e9c83e3557b619ce1c4 
+10:04:29.027 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 2b930794a3cc3b4610d3055fbda632b043f774378f1c8e9c83e3557b619ce1c4 
+10:04:29.109 [34mINFO [0;39m - /relaxed_northcutt: Waiting for 60 seconds for URL: http://localhost:32773/ 
+10:04:30.807 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.183S 
+10:04:30.831 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:04:33.032 [34mINFO [0;39m - Creating container for image: testcontainers/5yyyq4nz2lfe9rcg:latest 
+10:04:33.066 [34mINFO [0;39m - Starting container with ID: e941ea6a240c9c05db60245fdde76196068a1e91d3c3cebb075b3e9f3179fe55 
+10:04:33.441 [34mINFO [0;39m - Container testcontainers/5yyyq4nz2lfe9rcg:latest is starting: e941ea6a240c9c05db60245fdde76196068a1e91d3c3cebb075b3e9f3179fe55 
+10:04:33.452 [34mINFO [0;39m - Container testcontainers/5yyyq4nz2lfe9rcg:latest started in PT2.644S 

@@ -1,0 +1,11 @@
+10:34:32.942 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:34:32.960 [34mINFO [0;39m - Creating container for image: testcontainers/93qyyz62ztbh5bmj:latest 
+10:34:32.985 [34mINFO [0;39m - Starting container with ID: 76f3d81723faeaaabd6ff0bbb1a219297b54925537e99a68e73e4de3abf8fb20 
+10:34:33.355 [34mINFO [0;39m - Container testcontainers/93qyyz62ztbh5bmj:latest is starting: 76f3d81723faeaaabd6ff0bbb1a219297b54925537e99a68e73e4de3abf8fb20 
+10:34:33.357 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+10:34:33.359 [34mINFO [0;39m - /quirky_diffie: Waiting for 60 seconds for URL: http://localhost:32780/ 
+10:34:36.438 [34mINFO [0;39m - Container testcontainers/93qyyz62ztbh5bmj:latest started in PT3.962S 

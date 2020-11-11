@@ -1,0 +1,16 @@
+10:34:07.537 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:34:15.060 [34mINFO [0;39m - Creating container for image: testcontainers/twr9hs5rw82oz32k:latest 
+10:34:15.107 [34mINFO [0;39m - Starting container with ID: 7358163b693493ea77fd0e39a89bad3fe84efcae95bc3ce8324f02044942c94f 
+10:34:15.549 [34mINFO [0;39m - Container testcontainers/twr9hs5rw82oz32k:latest is starting: 7358163b693493ea77fd0e39a89bad3fe84efcae95bc3ce8324f02044942c94f 
+10:34:15.558 [34mINFO [0;39m - /dreamy_kapitsa: Waiting for 60 seconds for URL: http://localhost:32773/ 
+10:34:18.645 [34mINFO [0;39m - Container testcontainers/twr9hs5rw82oz32k:latest started in PT11.593S 
+10:34:18.645 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:34:18.673 [34mINFO [0;39m - Starting container with ID: 4dd2b3a766fdeeca56bf3865f3557391ba6984df3e4297500adb6618afb7fb62 
+10:34:19.037 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 4dd2b3a766fdeeca56bf3865f3557391ba6984df3e4297500adb6618afb7fb62 
+10:34:19.172 [34mINFO [0;39m - /youthful_elbakyan: Waiting for 60 seconds for URL: http://localhost:32775/ 
+10:34:20.829 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.184S 
+10:34:20.837 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:34:23.042 [34mINFO [0;39m - Creating container for image: testcontainers/1qnwknpwme5eqzgw:latest 
+10:34:23.066 [34mINFO [0;39m - Starting container with ID: 2daec3d6491dab23a75288fd1cd4606193180bcdd5ddaee7597b04a687bd1a7e 
+10:34:23.428 [34mINFO [0;39m - Container testcontainers/1qnwknpwme5eqzgw:latest is starting: 2daec3d6491dab23a75288fd1cd4606193180bcdd5ddaee7597b04a687bd1a7e 
+10:34:23.435 [34mINFO [0;39m - Container testcontainers/1qnwknpwme5eqzgw:latest started in PT2.605S 

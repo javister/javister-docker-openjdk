@@ -1,0 +1,11 @@
+10:34:28.611 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:34:28.640 [34mINFO [0;39m - Creating container for image: testcontainers/qywywib7gqwsifkv:latest 
+10:34:28.665 [34mINFO [0;39m - Starting container with ID: e219e09b0d5e3cebe3aec14f7bf694076008ee2c33382ef5ecc8243d9df9a044 
+10:34:29.055 [34mINFO [0;39m - Container testcontainers/qywywib7gqwsifkv:latest is starting: e219e09b0d5e3cebe3aec14f7bf694076008ee2c33382ef5ecc8243d9df9a044 
+10:34:29.058 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+10:34:29.063 [34mINFO [0;39m - /keen_kilby: Waiting for 60 seconds for URL: http://localhost:32778/ 
+10:34:32.161 [34mINFO [0;39m - Container testcontainers/qywywib7gqwsifkv:latest started in PT4.009S 

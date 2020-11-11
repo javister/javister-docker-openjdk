@@ -1,0 +1,11 @@
+10:05:10.744 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:05:10.766 [34mINFO [0;39m - Creating container for image: testcontainers/qhl8n4vk2hg5nhie:latest 
+10:05:10.788 [34mINFO [0;39m - Starting container with ID: b6c52fbf8cda61a086731a99e2f9bcbbba9ff33cbeaec33661a3817ca9f96a52 
+10:05:11.189 [34mINFO [0;39m - Container testcontainers/qhl8n4vk2hg5nhie:latest is starting: b6c52fbf8cda61a086731a99e2f9bcbbba9ff33cbeaec33661a3817ca9f96a52 
+10:05:11.194 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+10:05:11.205 [34mINFO [0;39m - /magical_wu: Waiting for 60 seconds for URL: http://localhost:32778/ 
+10:05:14.303 [34mINFO [0;39m - Container testcontainers/qhl8n4vk2hg5nhie:latest started in PT4.041S 

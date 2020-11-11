@@ -1,0 +1,11 @@
+10:05:15.131 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:05:15.148 [34mINFO [0;39m - Creating container for image: testcontainers/gtihmrguuq23wbip:latest 
+10:05:15.171 [34mINFO [0;39m - Starting container with ID: 5e8edab9ddcde4c9d3ae18bfae9bf16877cdd50ffe2a8ef77f57c0481d7dd270 
+10:05:15.555 [34mINFO [0;39m - Container testcontainers/gtihmrguuq23wbip:latest is starting: 5e8edab9ddcde4c9d3ae18bfae9bf16877cdd50ffe2a8ef77f57c0481d7dd270 
+10:05:15.570 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+10:05:15.574 [34mINFO [0;39m - /musing_hoover: Waiting for 60 seconds for URL: http://localhost:32780/ 
+10:05:18.680 [34mINFO [0;39m - Container testcontainers/gtihmrguuq23wbip:latest started in PT4.065S 

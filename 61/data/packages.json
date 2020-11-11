@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.github.javister.docker.testing.openjdk.DirectImageIT",
+    "children" : [ {
+      "name" : "proxyRequestTest",
+      "uid" : "639bc0041c69a83d",
+      "parentUid" : "eca219ec8d50d0c42a7b63be38d338b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605089041661,
+        "stop" : 1605089087351,
+        "duration" : 45690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "proxyRequestTest",
+      "uid" : "8ff75cf11583be56",
+      "parentUid" : "eca219ec8d50d0c42a7b63be38d338b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605089087473,
+        "stop" : 1605089110158,
+        "duration" : 22685
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "debugTest",
+      "uid" : "7c8e1867e15af991",
+      "parentUid" : "eca219ec8d50d0c42a7b63be38d338b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605089110251,
+        "stop" : 1605089114573,
+        "duration" : 4322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "debugTest",
+      "uid" : "45beb9f36735bc36",
+      "parentUid" : "eca219ec8d50d0c42a7b63be38d338b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605089114589,
+        "stop" : 1605089118932,
+        "duration" : 4343
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  } ],
+  "name" : "packages"
+}

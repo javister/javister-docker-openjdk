@@ -1,0 +1,11 @@
+10:19:48.124 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:19:48.142 [34mINFO [0;39m - Creating container for image: testcontainers/gtygwocb7cl3mhgs:latest 
+10:19:48.166 [34mINFO [0;39m - Starting container with ID: 00e6d8c2c56586a07ba9190c91acdc74dfb2ccf50c98429d1e83ef4a3c482665 
+10:19:48.544 [34mINFO [0;39m - Container testcontainers/gtygwocb7cl3mhgs:latest is starting: 00e6d8c2c56586a07ba9190c91acdc74dfb2ccf50c98429d1e83ef4a3c482665 
+10:19:48.547 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+10:19:48.557 [34mINFO [0;39m - /youthful_jones: Waiting for 60 seconds for URL: http://localhost:32778/ 
+10:19:51.644 [34mINFO [0;39m - Container testcontainers/gtygwocb7cl3mhgs:latest started in PT3.995S 

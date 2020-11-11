@@ -1,0 +1,29 @@
+10:18:42.188 [34mINFO [0;39m - Found docker client settings from environment 
+10:18:42.189 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+10:18:42.382 [34mINFO [0;39m - Docker host IP address is localhost 
+10:18:42.419 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.13+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+10:18:44.530 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+10:18:44.530 [34mINFO [0;39m - Checking the system... 
+10:18:44.531 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+10:18:44.850 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+10:18:46.005 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:18:53.093 [34mINFO [0;39m - Creating container for image: testcontainers/gjuhp9knf6mafav7:latest 
+10:18:53.144 [34mINFO [0;39m - Starting container with ID: 96f5bd1bdd63e3f6b3fb502835a421c6870900d608f5e389c629be6c5e1aaea2 
+10:18:53.609 [34mINFO [0;39m - Container testcontainers/gjuhp9knf6mafav7:latest is starting: 96f5bd1bdd63e3f6b3fb502835a421c6870900d608f5e389c629be6c5e1aaea2 
+10:18:53.667 [34mINFO [0;39m - /serene_tesla: Waiting for 60 seconds for URL: http://localhost:32769/ 
+10:18:57.835 [34mINFO [0;39m - Container testcontainers/gjuhp9knf6mafav7:latest started in PT12.803S 
+10:18:57.854 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+10:19:03.281 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:19:06.410 [34mINFO [0;39m - Starting container with ID: 49270fd0e48519139bfaa5721f1f5edcd74e14957cf122d0da269462acbc5c38 
+10:19:06.888 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 49270fd0e48519139bfaa5721f1f5edcd74e14957cf122d0da269462acbc5c38 
+10:19:06.986 [34mINFO [0;39m - /zealous_hoover: Waiting for 60 seconds for URL: http://localhost:32770/ 
+10:19:09.272 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT11.433S 
+10:19:09.291 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:19:12.057 [34mINFO [0;39m - Creating container for image: testcontainers/uzg5nybeep2fu8bs:latest 
+10:19:12.088 [34mINFO [0;39m - Starting container with ID: e731ba9da260ddb7ea72eb6a51e706244cf7dc17e49c74f049ba371f65818ce2 
+10:19:12.532 [34mINFO [0;39m - Container testcontainers/uzg5nybeep2fu8bs:latest is starting: e731ba9da260ddb7ea72eb6a51e706244cf7dc17e49c74f049ba371f65818ce2 
+10:19:12.546 [34mINFO [0;39m - Container testcontainers/uzg5nybeep2fu8bs:latest started in PT3.268S 

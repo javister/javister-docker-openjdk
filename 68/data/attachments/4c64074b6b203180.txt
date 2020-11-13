@@ -1,0 +1,29 @@
+10:11:13.270 [34mINFO [0;39m - Found docker client settings from environment 
+10:11:13.271 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+10:11:13.459 [34mINFO [0;39m - Docker host IP address is localhost 
+10:11:13.499 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.13+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+10:11:15.327 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+10:11:15.327 [34mINFO [0;39m - Checking the system... 
+10:11:15.328 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+10:11:15.509 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+10:11:16.471 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:11:23.075 [34mINFO [0;39m - Creating container for image: testcontainers/unvuf9bape8cqehh:latest 
+10:11:23.135 [34mINFO [0;39m - Starting container with ID: 683148d2f84e762fb8467487140353323fb333b4711c2c6bbeb6c0849b766e44 
+10:11:23.560 [34mINFO [0;39m - Container testcontainers/unvuf9bape8cqehh:latest is starting: 683148d2f84e762fb8467487140353323fb333b4711c2c6bbeb6c0849b766e44 
+10:11:23.609 [34mINFO [0;39m - /elastic_rosalind: Waiting for 60 seconds for URL: http://localhost:32769/ 
+10:11:27.741 [34mINFO [0;39m - Container testcontainers/unvuf9bape8cqehh:latest started in PT12.057S 
+10:11:27.748 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+10:11:33.230 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:11:36.320 [34mINFO [0;39m - Starting container with ID: a5251d3a901031ddd23e49ab606527acf71e72c2aad00f67a06400389746aa55 
+10:11:36.771 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: a5251d3a901031ddd23e49ab606527acf71e72c2aad00f67a06400389746aa55 
+10:11:36.935 [34mINFO [0;39m - /cool_shockley: Waiting for 60 seconds for URL: http://localhost:32771/ 
+10:11:39.257 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT11.514S 
+10:11:39.269 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:11:42.050 [34mINFO [0;39m - Creating container for image: testcontainers/hubxi6r89graobhu:latest 
+10:11:42.082 [34mINFO [0;39m - Starting container with ID: d894d1fdf516b3c0778c96f681704ffd447b36621ed484d26a200c2718ad099f 
+10:11:42.484 [34mINFO [0;39m - Container testcontainers/hubxi6r89graobhu:latest is starting: d894d1fdf516b3c0778c96f681704ffd447b36621ed484d26a200c2718ad099f 
+10:11:42.503 [34mINFO [0;39m - Container testcontainers/hubxi6r89graobhu:latest started in PT3.244S 

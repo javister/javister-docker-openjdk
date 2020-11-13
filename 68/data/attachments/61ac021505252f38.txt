@@ -1,0 +1,11 @@
+10:12:17.725 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:12:17.742 [34mINFO [0;39m - Creating container for image: testcontainers/wvfs9wqyshmyverl:latest 
+10:12:17.762 [34mINFO [0;39m - Starting container with ID: 2b6567a083a3da3bfdeba5f86914214911d539e7f3f26945a3edfd773de6b129 
+10:12:18.140 [34mINFO [0;39m - Container testcontainers/wvfs9wqyshmyverl:latest is starting: 2b6567a083a3da3bfdeba5f86914214911d539e7f3f26945a3edfd773de6b129 
+10:12:18.154 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+10:12:18.156 [34mINFO [0;39m - /lucid_goldstine: Waiting for 60 seconds for URL: http://localhost:32780/ 
+10:12:21.249 [34mINFO [0;39m - Container testcontainers/wvfs9wqyshmyverl:latest started in PT3.998S 

@@ -1,0 +1,11 @@
+10:12:13.388 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:12:13.403 [34mINFO [0;39m - Creating container for image: testcontainers/peqtfdjp1axzlwup:latest 
+10:12:13.425 [34mINFO [0;39m - Starting container with ID: 0ca30ecd4b2536d929fb5561e1aab6ffab7a261c2719af91ca604f16b86840dc 
+10:12:13.820 [34mINFO [0;39m - Container testcontainers/peqtfdjp1axzlwup:latest is starting: 0ca30ecd4b2536d929fb5561e1aab6ffab7a261c2719af91ca604f16b86840dc 
+10:12:13.824 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+10:12:13.833 [34mINFO [0;39m - /gallant_lamarr: Waiting for 60 seconds for URL: http://localhost:32778/ 
+10:12:16.952 [34mINFO [0;39m - Container testcontainers/peqtfdjp1axzlwup:latest started in PT4.027S 

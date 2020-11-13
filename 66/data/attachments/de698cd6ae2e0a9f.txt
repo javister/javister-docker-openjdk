@@ -1,0 +1,29 @@
+06:01:06.145 [34mINFO [0;39m - Found docker client settings from environment 
+06:01:06.146 [34mINFO [0;39m - Found Docker environment with Environment variables, system properties and defaults. Resolved dockerHost=unix:///var/run/docker.sock 
+06:01:06.352 [34mINFO [0;39m - Docker host IP address is localhost 
+06:01:06.395 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 19.03.13+azure
+  API Version: 1.40
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+06:01:08.631 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+06:01:08.631 [34mINFO [0;39m - Checking the system... 
+06:01:08.632 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+06:01:09.036 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+06:01:10.422 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:01:18.093 [34mINFO [0;39m - Creating container for image: testcontainers/stv9bxyiqwnchtsa:latest 
+06:01:18.143 [34mINFO [0;39m - Starting container with ID: 86d5da632ee4f1861998ac8b8f7cf69e210ac8b63e3bb8ab66927ce77994cd3d 
+06:01:18.631 [34mINFO [0;39m - Container testcontainers/stv9bxyiqwnchtsa:latest is starting: 86d5da632ee4f1861998ac8b8f7cf69e210ac8b63e3bb8ab66927ce77994cd3d 
+06:01:18.699 [34mINFO [0;39m - /laughing_herschel: Waiting for 60 seconds for URL: http://localhost:32769/ 
+06:01:22.841 [34mINFO [0;39m - Container testcontainers/stv9bxyiqwnchtsa:latest started in PT13.601S 
+06:01:22.862 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+06:01:28.391 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:01:31.513 [34mINFO [0;39m - Starting container with ID: e063f4646333a7a90726dc08f4133276e46a9ed3702bafdf21dfb1fe7ea8fd4d 
+06:01:31.944 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: e063f4646333a7a90726dc08f4133276e46a9ed3702bafdf21dfb1fe7ea8fd4d 
+06:01:32.055 [34mINFO [0;39m - /confident_jennings: Waiting for 60 seconds for URL: http://localhost:32770/ 
+06:01:34.349 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT11.504S 
+06:01:34.393 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:01:37.056 [34mINFO [0;39m - Creating container for image: testcontainers/6nr19j7x8e5yyoff:latest 
+06:01:37.081 [34mINFO [0;39m - Starting container with ID: a877d505f7af403888505ee49760ba067af2d8929e3e70c7fa33499d10f38157 
+06:01:37.521 [34mINFO [0;39m - Container testcontainers/6nr19j7x8e5yyoff:latest is starting: a877d505f7af403888505ee49760ba067af2d8929e3e70c7fa33499d10f38157 
+06:01:37.541 [34mINFO [0;39m - Container testcontainers/6nr19j7x8e5yyoff:latest started in PT3.191S 

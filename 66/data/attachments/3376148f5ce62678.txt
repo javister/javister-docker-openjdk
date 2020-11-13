@@ -1,0 +1,16 @@
+06:01:48.358 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:01:56.053 [34mINFO [0;39m - Creating container for image: testcontainers/z4gvezmthy1ynyqt:latest 
+06:01:56.070 [34mINFO [0;39m - Starting container with ID: 125bdaa83c1a9b0e6c7d15a89664fcd4e2b0ba14a0299893ea113d0c6422d82e 
+06:01:56.541 [34mINFO [0;39m - Container testcontainers/z4gvezmthy1ynyqt:latest is starting: 125bdaa83c1a9b0e6c7d15a89664fcd4e2b0ba14a0299893ea113d0c6422d82e 
+06:01:56.558 [34mINFO [0;39m - /objective_lederberg: Waiting for 60 seconds for URL: http://localhost:32772/ 
+06:01:59.669 [34mINFO [0;39m - Container testcontainers/z4gvezmthy1ynyqt:latest started in PT11.905S 
+06:01:59.669 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:01:59.717 [34mINFO [0;39m - Starting container with ID: 5c3b19b6471fb06afed21ca264c96e6d01853007fe3aad62294be41b5cfa648d 
+06:02:00.081 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 5c3b19b6471fb06afed21ca264c96e6d01853007fe3aad62294be41b5cfa648d 
+06:02:00.168 [34mINFO [0;39m - /optimistic_davinci: Waiting for 60 seconds for URL: http://localhost:32773/ 
+06:02:01.874 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.205S 
+06:02:01.888 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:02:05.037 [34mINFO [0;39m - Creating container for image: testcontainers/4wiyve7cjky1fmbd:latest 
+06:02:05.062 [34mINFO [0;39m - Starting container with ID: fcb4cf569d003f0240d5f921ef7618e837a8c3b7b29ea6479af49ce24e4f0eab 
+06:02:05.424 [34mINFO [0;39m - Container testcontainers/4wiyve7cjky1fmbd:latest is starting: fcb4cf569d003f0240d5f921ef7618e837a8c3b7b29ea6479af49ce24e4f0eab 
+06:02:05.430 [34mINFO [0;39m - Container testcontainers/4wiyve7cjky1fmbd:latest started in PT3.555S 

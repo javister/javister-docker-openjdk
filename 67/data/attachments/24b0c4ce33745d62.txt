@@ -1,0 +1,16 @@
+10:05:13.709 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:05:21.048 [34mINFO [0;39m - Creating container for image: testcontainers/dycu22af2os8oz2i:latest 
+10:05:21.069 [34mINFO [0;39m - Starting container with ID: 3f4d2c656b212d6f22ec84e3be17a2b7c9aeeed320d06f1ff45f446a84226f2e 
+10:05:21.476 [34mINFO [0;39m - Container testcontainers/dycu22af2os8oz2i:latest is starting: 3f4d2c656b212d6f22ec84e3be17a2b7c9aeeed320d06f1ff45f446a84226f2e 
+10:05:21.492 [34mINFO [0;39m - /nostalgic_stonebraker: Waiting for 60 seconds for URL: http://localhost:32773/ 
+10:05:25.615 [34mINFO [0;39m - Container testcontainers/dycu22af2os8oz2i:latest started in PT12.401S 
+10:05:25.615 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:05:25.632 [34mINFO [0;39m - Starting container with ID: 02e70fb1a52ee92e85fa00c37af9c3e85e8edfdcfe5ff4280cdbbe355a835651 
+10:05:25.988 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 02e70fb1a52ee92e85fa00c37af9c3e85e8edfdcfe5ff4280cdbbe355a835651 
+10:05:26.104 [34mINFO [0;39m - /happy_neumann: Waiting for 60 seconds for URL: http://localhost:32775/ 
+10:05:27.791 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.176S 
+10:05:27.795 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:05:30.034 [34mINFO [0;39m - Creating container for image: testcontainers/6ag5dcuopmtndnnc:latest 
+10:05:30.063 [34mINFO [0;39m - Starting container with ID: bae9935adb484c4789979ad2ffcfa4f937e8d925df0a121eb8c8fb7e390e98e2 
+10:05:30.412 [34mINFO [0;39m - Container testcontainers/6ag5dcuopmtndnnc:latest is starting: bae9935adb484c4789979ad2ffcfa4f937e8d925df0a121eb8c8fb7e390e98e2 
+10:05:30.422 [34mINFO [0;39m - Container testcontainers/6ag5dcuopmtndnnc:latest started in PT2.631S 

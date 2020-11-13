@@ -1,0 +1,11 @@
+10:05:39.602 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:05:39.617 [34mINFO [0;39m - Creating container for image: testcontainers/urfbvegii1ahnrgi:latest 
+10:05:39.641 [34mINFO [0;39m - Starting container with ID: 27d80989ffcba0d0ce68fdcaa446005d9f11478f78ec99616f615b695d32042f 
+10:05:40.014 [34mINFO [0;39m - Container testcontainers/urfbvegii1ahnrgi:latest is starting: 27d80989ffcba0d0ce68fdcaa446005d9f11478f78ec99616f615b695d32042f 
+10:05:40.017 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+10:05:40.022 [34mINFO [0;39m - /loving_snyder: Waiting for 60 seconds for URL: http://localhost:32780/ 
+10:05:43.112 [34mINFO [0;39m - Container testcontainers/urfbvegii1ahnrgi:latest started in PT3.981S 

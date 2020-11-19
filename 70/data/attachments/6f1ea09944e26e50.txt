@@ -1,0 +1,11 @@
+13:20:18.147 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:20:18.168 [34mINFO [0;39m - Creating container for image: testcontainers/novtxqbyufacwu69:latest 
+13:20:18.184 [34mINFO [0;39m - Starting container with ID: ee5c29265550b72161c60aa13dbe53082a21d339a8eb8ba1e8126b0291e02e2f 
+13:20:18.518 [34mINFO [0;39m - Container testcontainers/novtxqbyufacwu69:latest is starting: ee5c29265550b72161c60aa13dbe53082a21d339a8eb8ba1e8126b0291e02e2f 
+13:20:18.524 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+13:20:18.536 [34mINFO [0;39m - /angry_chaplygin: Waiting for 60 seconds for URL: http://localhost:32780/ 
+13:20:21.617 [34mINFO [0;39m - Container testcontainers/novtxqbyufacwu69:latest started in PT3.884S 

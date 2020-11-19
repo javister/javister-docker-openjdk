@@ -1,0 +1,11 @@
+13:20:14.015 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:20:14.029 [34mINFO [0;39m - Creating container for image: testcontainers/iahjsmahxqgbtmea:latest 
+13:20:14.044 [34mINFO [0;39m - Starting container with ID: 2ceb25b972db6471bc45988932b877f1b9f5daea92a86f3ff94672b9bd0b0a34 
+13:20:14.377 [34mINFO [0;39m - Container testcontainers/iahjsmahxqgbtmea:latest is starting: 2ceb25b972db6471bc45988932b877f1b9f5daea92a86f3ff94672b9bd0b0a34 
+13:20:14.383 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+13:20:14.389 [34mINFO [0;39m - /lucid_cannon: Waiting for 60 seconds for URL: http://localhost:32778/ 
+13:20:17.474 [34mINFO [0;39m - Container testcontainers/iahjsmahxqgbtmea:latest started in PT3.908S 

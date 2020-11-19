@@ -1,0 +1,11 @@
+13:11:47.197 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:11:47.212 [34mINFO [0;39m - Creating container for image: testcontainers/ggfwaedpjfk5tz9j:latest 
+13:11:47.240 [34mINFO [0;39m - Starting container with ID: fbf7f6c963b9514ad1913ff7a1fb8a5eb70a21a94d942db67abd7a98a155527b 
+13:11:47.581 [34mINFO [0;39m - Container testcontainers/ggfwaedpjfk5tz9j:latest is starting: fbf7f6c963b9514ad1913ff7a1fb8a5eb70a21a94d942db67abd7a98a155527b 
+13:11:47.583 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+13:11:47.588 [34mINFO [0;39m - /dazzling_grothendieck: Waiting for 60 seconds for URL: http://localhost:32780/ 
+13:11:50.684 [34mINFO [0;39m - Container testcontainers/ggfwaedpjfk5tz9j:latest started in PT3.947S 

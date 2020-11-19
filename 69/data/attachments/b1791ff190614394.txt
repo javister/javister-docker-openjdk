@@ -1,0 +1,11 @@
+13:11:42.979 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:11:42.993 [34mINFO [0;39m - Creating container for image: testcontainers/guqnveisbu9pdbxz:latest 
+13:11:43.011 [34mINFO [0;39m - Starting container with ID: cfd1186188be5c6c28079c32b2cf01e3431132e07230e2eb06f54b5e2c514957 
+13:11:43.380 [34mINFO [0;39m - Container testcontainers/guqnveisbu9pdbxz:latest is starting: cfd1186188be5c6c28079c32b2cf01e3431132e07230e2eb06f54b5e2c514957 
+13:11:43.383 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+13:11:43.390 [34mINFO [0;39m - /stupefied_taussig: Waiting for 60 seconds for URL: http://localhost:32778/ 
+13:11:46.478 [34mINFO [0;39m - Container testcontainers/guqnveisbu9pdbxz:latest started in PT3.943S 

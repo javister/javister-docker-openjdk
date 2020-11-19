@@ -1,0 +1,11 @@
+13:19:51.968 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:19:51.975 [34mINFO [0;39m - Creating container for image: testcontainers/xqz4ne7kxvkijtfp:latest 
+13:19:51.999 [34mINFO [0;39m - Starting container with ID: 47f889bdaefac1e84f87bff3a11b99c475958924609064a24b8000df6855e1c0 
+13:19:52.393 [34mINFO [0;39m - Container testcontainers/xqz4ne7kxvkijtfp:latest is starting: 47f889bdaefac1e84f87bff3a11b99c475958924609064a24b8000df6855e1c0 
+13:19:52.396 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+13:19:52.398 [34mINFO [0;39m - /elastic_brown: Waiting for 60 seconds for URL: http://localhost:32780/ 
+13:19:55.483 [34mINFO [0;39m - Container testcontainers/xqz4ne7kxvkijtfp:latest started in PT4.055S 

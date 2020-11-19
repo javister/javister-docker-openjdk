@@ -1,0 +1,11 @@
+13:19:47.619 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:19:47.635 [34mINFO [0;39m - Creating container for image: testcontainers/cmufvcdcrtkbswom:latest 
+13:19:47.658 [34mINFO [0;39m - Starting container with ID: 9d10079a7518eafecfadba3cb71eac877ca84434097fd5053a5c6cc118aec942 
+13:19:48.013 [34mINFO [0;39m - Container testcontainers/cmufvcdcrtkbswom:latest is starting: 9d10079a7518eafecfadba3cb71eac877ca84434097fd5053a5c6cc118aec942 
+13:19:48.023 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+13:19:48.036 [34mINFO [0;39m - /infallible_mendel: Waiting for 60 seconds for URL: http://localhost:32778/ 
+13:19:51.125 [34mINFO [0;39m - Container testcontainers/cmufvcdcrtkbswom:latest started in PT4.026S 

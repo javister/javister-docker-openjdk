@@ -1,0 +1,11 @@
+06:09:04.038 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:09:04.060 [34mINFO [0;39m - Creating container for image: testcontainers/ugpnotpuhnwbyfx7:latest 
+06:09:04.084 [34mINFO [0;39m - Starting container with ID: 1528abad061650d5680642dbf3c64a579c56080a45a05b1ce2c3fc4dbccef6b1 
+06:09:04.455 [34mINFO [0;39m - Container testcontainers/ugpnotpuhnwbyfx7:latest is starting: 1528abad061650d5680642dbf3c64a579c56080a45a05b1ce2c3fc4dbccef6b1 
+06:09:04.468 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+06:09:04.473 [34mINFO [0;39m - /clever_haslett: Waiting for 60 seconds for URL: http://localhost:32776/ 
+06:09:07.563 [34mINFO [0;39m - Container testcontainers/ugpnotpuhnwbyfx7:latest started in PT3.948S 

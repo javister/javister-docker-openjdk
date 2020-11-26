@@ -1,0 +1,11 @@
+06:09:08.278 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:09:08.294 [34mINFO [0;39m - Creating container for image: testcontainers/qtaubdh1v4dregqd:latest 
+06:09:08.317 [34mINFO [0;39m - Starting container with ID: a17d7ce02fc2d3ae5c6b2cd7ecf1cce66497298a8fe4256c1e35574595ac0815 
+06:09:08.676 [34mINFO [0;39m - Container testcontainers/qtaubdh1v4dregqd:latest is starting: a17d7ce02fc2d3ae5c6b2cd7ecf1cce66497298a8fe4256c1e35574595ac0815 
+06:09:08.679 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+06:09:08.689 [34mINFO [0;39m - /laughing_lichterman: Waiting for 60 seconds for URL: http://localhost:32778/ 
+06:09:11.783 [34mINFO [0;39m - Container testcontainers/qtaubdh1v4dregqd:latest started in PT3.939S 

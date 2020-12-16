@@ -1,0 +1,16 @@
+16:09:57.994 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:10:05.048 [34mINFO [0;39m - Creating container for image: testcontainers/qumaeyuymtr7xluz:latest 
+16:10:05.074 [34mINFO [0;39m - Starting container with ID: ffeb3df386b154647091f4e5ffd3462a5407eaf271e62a93bdec3186e33ce294 
+16:10:05.489 [34mINFO [0;39m - Container testcontainers/qumaeyuymtr7xluz:latest is starting: ffeb3df386b154647091f4e5ffd3462a5407eaf271e62a93bdec3186e33ce294 
+16:10:05.499 [34mINFO [0;39m - /focused_mcnulty: Waiting for 60 seconds for URL: http://localhost:32773/ 
+16:10:08.641 [34mINFO [0;39m - Container testcontainers/qumaeyuymtr7xluz:latest started in PT11.277S 
+16:10:08.642 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+16:10:08.666 [34mINFO [0;39m - Starting container with ID: 72e81059b691ed596bb9d5515d2b21f48a034f8f57b9215bd28d8fe5d2394956 
+16:10:09.070 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 72e81059b691ed596bb9d5515d2b21f48a034f8f57b9215bd28d8fe5d2394956 
+16:10:09.174 [34mINFO [0;39m - /busy_fermi: Waiting for 60 seconds for URL: http://localhost:32775/ 
+16:10:10.805 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.163S 
+16:10:10.809 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+16:10:13.037 [34mINFO [0;39m - Creating container for image: testcontainers/7oww14qvvctx9zfh:latest 
+16:10:13.058 [34mINFO [0;39m - Starting container with ID: 65dc267e9599e600403f567910fb512ad20e5e792930b72697f2cbd59e685025 
+16:10:13.372 [34mINFO [0;39m - Container testcontainers/7oww14qvvctx9zfh:latest is starting: 65dc267e9599e600403f567910fb512ad20e5e792930b72697f2cbd59e685025 
+16:10:13.377 [34mINFO [0;39m - Container testcontainers/7oww14qvvctx9zfh:latest started in PT2.571S 

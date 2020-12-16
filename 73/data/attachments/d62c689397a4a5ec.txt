@@ -1,0 +1,11 @@
+16:07:26.952 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:07:26.965 [34mINFO [0;39m - Creating container for image: testcontainers/sc5htsajfjmu2ia5:latest 
+16:07:26.984 [34mINFO [0;39m - Starting container with ID: 7e1d25fea128159b123284a480e1e39705d3f3fab9dbc032c570aa0cd0da5f2a 
+16:07:27.343 [34mINFO [0;39m - Container testcontainers/sc5htsajfjmu2ia5:latest is starting: 7e1d25fea128159b123284a480e1e39705d3f3fab9dbc032c570aa0cd0da5f2a 
+16:07:27.346 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+16:07:27.354 [34mINFO [0;39m - /compassionate_mclaren: Waiting for 60 seconds for URL: http://localhost:32778/ 
+16:07:30.438 [34mINFO [0;39m - Container testcontainers/sc5htsajfjmu2ia5:latest started in PT3.95S 

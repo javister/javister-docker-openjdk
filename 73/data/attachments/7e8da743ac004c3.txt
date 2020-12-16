@@ -1,0 +1,11 @@
+16:07:31.130 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:07:31.148 [34mINFO [0;39m - Creating container for image: testcontainers/ydqqj1d4ntdj777d:latest 
+16:07:31.166 [34mINFO [0;39m - Starting container with ID: 43d866044db828d912f122956666558020eae88a67b7037168523f40a256ed5c 
+16:07:31.559 [34mINFO [0;39m - Container testcontainers/ydqqj1d4ntdj777d:latest is starting: 43d866044db828d912f122956666558020eae88a67b7037168523f40a256ed5c 
+16:07:31.569 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+16:07:31.572 [34mINFO [0;39m - /agitated_davinci: Waiting for 60 seconds for URL: http://localhost:32780/ 
+16:07:34.653 [34mINFO [0;39m - Container testcontainers/ydqqj1d4ntdj777d:latest started in PT3.937S 

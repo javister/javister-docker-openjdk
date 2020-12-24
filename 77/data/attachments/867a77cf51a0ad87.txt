@@ -1,0 +1,11 @@
+16:05:22.586 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:05:22.604 [34mINFO [0;39m - Creating container for image: testcontainers/n5cfhasaajrmxzgq:latest 
+16:05:22.619 [34mINFO [0;39m - Starting container with ID: 2a36bb40a84245ad72f2bb0532ba450761b5d49f641d91ba8c378d9ac3342cc5 
+16:05:22.945 [34mINFO [0;39m - Container testcontainers/n5cfhasaajrmxzgq:latest is starting: 2a36bb40a84245ad72f2bb0532ba450761b5d49f641d91ba8c378d9ac3342cc5 
+16:05:22.950 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+16:05:22.953 [34mINFO [0;39m - /charming_maxwell: Waiting for 60 seconds for URL: http://localhost:32776/ 
+16:05:26.030 [34mINFO [0;39m - Container testcontainers/n5cfhasaajrmxzgq:latest started in PT3.84S 

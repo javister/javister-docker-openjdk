@@ -1,0 +1,11 @@
+16:05:26.743 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:05:26.757 [34mINFO [0;39m - Creating container for image: testcontainers/nuckcstagxfkgxnu:latest 
+16:05:26.774 [34mINFO [0;39m - Starting container with ID: a6e55795ba875ccc436ea2a7c3e2ea43c29787f2566e39da06815f9b4ee55ace 
+16:05:27.105 [34mINFO [0;39m - Container testcontainers/nuckcstagxfkgxnu:latest is starting: a6e55795ba875ccc436ea2a7c3e2ea43c29787f2566e39da06815f9b4ee55ace 
+16:05:27.109 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+16:05:27.111 [34mINFO [0;39m - /inspiring_chebyshev: Waiting for 60 seconds for URL: http://localhost:32778/ 
+16:05:30.184 [34mINFO [0;39m - Container testcontainers/nuckcstagxfkgxnu:latest started in PT3.878S 

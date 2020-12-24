@@ -1,0 +1,11 @@
+12:53:37.678 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+12:53:37.703 [34mINFO [0;39m - Creating container for image: testcontainers/14ihpvkdddzjm8gr:latest 
+12:53:37.722 [34mINFO [0;39m - Starting container with ID: 9b12d1a4778c092e6070ef983f0f9a69d6be84a7af5bf62a20ef116a11ca33ff 
+12:53:38.128 [34mINFO [0;39m - Container testcontainers/14ihpvkdddzjm8gr:latest is starting: 9b12d1a4778c092e6070ef983f0f9a69d6be84a7af5bf62a20ef116a11ca33ff 
+12:53:38.137 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+12:53:38.147 [34mINFO [0;39m - /zen_goldwasser: Waiting for 60 seconds for URL: http://localhost:32778/ 
+12:53:42.254 [34mINFO [0;39m - Container testcontainers/14ihpvkdddzjm8gr:latest started in PT5.146S 

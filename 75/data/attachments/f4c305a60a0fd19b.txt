@@ -1,0 +1,11 @@
+12:53:33.224 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+12:53:33.242 [34mINFO [0;39m - Creating container for image: testcontainers/xspm4quf6qgabl3s:latest 
+12:53:33.274 [34mINFO [0;39m - Starting container with ID: c11e3acf02a4dcc17e392c786d1d414ad844fa489af00eff44a3162a46957dde 
+12:53:33.689 [34mINFO [0;39m - Container testcontainers/xspm4quf6qgabl3s:latest is starting: c11e3acf02a4dcc17e392c786d1d414ad844fa489af00eff44a3162a46957dde 
+12:53:33.692 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32775 *************
+****************************************************
+ 
+12:53:33.697 [34mINFO [0;39m - /serene_rosalind: Waiting for 60 seconds for URL: http://localhost:32776/ 
+12:53:36.797 [34mINFO [0;39m - Container testcontainers/xspm4quf6qgabl3s:latest started in PT4.124S 

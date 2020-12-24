@@ -1,0 +1,16 @@
+13:26:39.665 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:26:47.051 [34mINFO [0;39m - Creating container for image: testcontainers/cpt4elxwyfmyfpnv:latest 
+13:26:47.078 [34mINFO [0;39m - Starting container with ID: bc2ae8ca40e1ee2d8cb4764ccc5496aab7965a9cfb91b2d7b03cfa804f969701 
+13:26:47.490 [34mINFO [0;39m - Container testcontainers/cpt4elxwyfmyfpnv:latest is starting: bc2ae8ca40e1ee2d8cb4764ccc5496aab7965a9cfb91b2d7b03cfa804f969701 
+13:26:47.512 [34mINFO [0;39m - /naughty_dijkstra: Waiting for 60 seconds for URL: http://localhost:32773/ 
+13:26:51.636 [34mINFO [0;39m - Container testcontainers/cpt4elxwyfmyfpnv:latest started in PT12.437S 
+13:26:51.640 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+13:26:51.659 [34mINFO [0;39m - Starting container with ID: a5ffaa05c48bd962e993e6c1c9ae6eff83121f7e23b7b0e67060e8ee79c3332a 
+13:26:52.067 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: a5ffaa05c48bd962e993e6c1c9ae6eff83121f7e23b7b0e67060e8ee79c3332a 
+13:26:52.171 [34mINFO [0;39m - /admiring_diffie: Waiting for 60 seconds for URL: http://localhost:32775/ 
+13:26:53.829 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.189S 
+13:26:53.834 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+13:26:56.046 [34mINFO [0;39m - Creating container for image: testcontainers/zwcxbtqjcdrmmxa6:latest 
+13:26:56.075 [34mINFO [0;39m - Starting container with ID: 580809defb310d3f0368014d3e85f03cd55ad24dd1b64e13e4b2647eaffe8b15 
+13:26:56.424 [34mINFO [0;39m - Container testcontainers/zwcxbtqjcdrmmxa6:latest is starting: 580809defb310d3f0368014d3e85f03cd55ad24dd1b64e13e4b2647eaffe8b15 
+13:26:56.435 [34mINFO [0;39m - Container testcontainers/zwcxbtqjcdrmmxa6:latest started in PT2.605S 

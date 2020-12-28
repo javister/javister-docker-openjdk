@@ -1,0 +1,16 @@
+06:53:01.684 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:53:08.047 [34mINFO [0;39m - Creating container for image: testcontainers/guswunxfcalshyqf:latest 
+06:53:08.069 [34mINFO [0;39m - Starting container with ID: bce5e9acd8f3e2868277a9edb118f2c150d84b68cc6ee46eef0d779d9efdc30a 
+06:53:08.496 [34mINFO [0;39m - Container testcontainers/guswunxfcalshyqf:latest is starting: bce5e9acd8f3e2868277a9edb118f2c150d84b68cc6ee46eef0d779d9efdc30a 
+06:53:08.504 [34mINFO [0;39m - /happy_lederberg: Waiting for 60 seconds for URL: http://localhost:32772/ 
+06:53:12.658 [34mINFO [0;39m - Container testcontainers/guswunxfcalshyqf:latest started in PT11.475S 
+06:53:12.658 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:53:12.683 [34mINFO [0;39m - Starting container with ID: 425ce02c1bcf2df6ff3b063ad394c4a0a7dd0777110249407b488891428cdb7e 
+06:53:13.092 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 425ce02c1bcf2df6ff3b063ad394c4a0a7dd0777110249407b488891428cdb7e 
+06:53:13.180 [34mINFO [0;39m - /compassionate_jennings: Waiting for 60 seconds for URL: http://localhost:32773/ 
+06:53:14.831 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.173S 
+06:53:14.842 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:53:17.030 [34mINFO [0;39m - Creating container for image: testcontainers/rxjqppmtabqdd5aa:latest 
+06:53:17.047 [34mINFO [0;39m - Starting container with ID: fe2ebabac3148d4b539e458b82e5f0aa141ce33a723356343433456ddd8e66ba 
+06:53:17.399 [34mINFO [0;39m - Container testcontainers/rxjqppmtabqdd5aa:latest is starting: fe2ebabac3148d4b539e458b82e5f0aa141ce33a723356343433456ddd8e66ba 
+06:53:17.405 [34mINFO [0;39m - Container testcontainers/rxjqppmtabqdd5aa:latest started in PT2.573S 

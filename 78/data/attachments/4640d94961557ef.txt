@@ -1,0 +1,16 @@
+06:46:17.108 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:46:24.047 [34mINFO [0;39m - Creating container for image: testcontainers/6uuzun5ytaxg9xrp:latest 
+06:46:24.069 [34mINFO [0;39m - Starting container with ID: 0e68d5d1f08a048b17d09b3116178b1b15c6ab41234e196f6182abf800a5cee0 
+06:46:24.481 [34mINFO [0;39m - Container testcontainers/6uuzun5ytaxg9xrp:latest is starting: 0e68d5d1f08a048b17d09b3116178b1b15c6ab41234e196f6182abf800a5cee0 
+06:46:24.492 [34mINFO [0;39m - /busy_sammet: Waiting for 60 seconds for URL: http://localhost:32773/ 
+06:46:27.595 [34mINFO [0;39m - Container testcontainers/6uuzun5ytaxg9xrp:latest started in PT11.035S 
+06:46:27.595 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:46:27.619 [34mINFO [0;39m - Starting container with ID: 2bfe7226e7130844d89200ee737bd998bc57625a38c6745d71c8a5702be68ee7 
+06:46:27.989 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 2bfe7226e7130844d89200ee737bd998bc57625a38c6745d71c8a5702be68ee7 
+06:46:28.104 [34mINFO [0;39m - /clever_sammet: Waiting for 60 seconds for URL: http://localhost:32775/ 
+06:46:29.779 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.184S 
+06:46:29.802 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:46:32.032 [34mINFO [0;39m - Creating container for image: testcontainers/1htfpqdcqy2hurr3:latest 
+06:46:32.058 [34mINFO [0;39m - Starting container with ID: c720dd24f0700d28ff8dbd364d7fc3a2281a72cdc413524d89c601dc48116c7e 
+06:46:32.381 [34mINFO [0;39m - Container testcontainers/1htfpqdcqy2hurr3:latest is starting: c720dd24f0700d28ff8dbd364d7fc3a2281a72cdc413524d89c601dc48116c7e 
+06:46:32.398 [34mINFO [0;39m - Container testcontainers/1htfpqdcqy2hurr3:latest started in PT2.618S 

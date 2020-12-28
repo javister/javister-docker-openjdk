@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://javister.github.io/javister-docker-openjdk",
+  "buildOrder" : 78,
+  "buildName" : "GitHub Actions Run #448309399",
+  "buildUrl" : "https://github.com/javister/javister-docker-openjdk/actions/runs/448309399",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://javister.github.io/javister-docker-openjdk/78/"
+} ]

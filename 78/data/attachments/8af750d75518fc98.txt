@@ -1,0 +1,11 @@
+06:46:40.861 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:46:40.874 [34mINFO [0;39m - Creating container for image: testcontainers/7zpg77lsbqy5sz6h:latest 
+06:46:40.893 [34mINFO [0;39m - Starting container with ID: 2b2b0786206cdd292f13694feb3fb5fa1bb734cea6882a8268c0220cb99b75f3 
+06:46:41.232 [34mINFO [0;39m - Container testcontainers/7zpg77lsbqy5sz6h:latest is starting: 2b2b0786206cdd292f13694feb3fb5fa1bb734cea6882a8268c0220cb99b75f3 
+06:46:41.236 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+06:46:41.237 [34mINFO [0;39m - /mystifying_elbakyan: Waiting for 60 seconds for URL: http://localhost:32780/ 
+06:46:44.314 [34mINFO [0;39m - Container testcontainers/7zpg77lsbqy5sz6h:latest started in PT3.851S 

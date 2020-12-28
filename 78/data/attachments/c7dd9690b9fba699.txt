@@ -1,0 +1,11 @@
+06:46:36.737 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:46:36.750 [34mINFO [0;39m - Creating container for image: testcontainers/cs7dzwqzpggtxav6:latest 
+06:46:36.773 [34mINFO [0;39m - Starting container with ID: 92bdd46dddf875a6e79cf8a6ee15544a222f36935f600101ff8f5c55e04ff062 
+06:46:37.117 [34mINFO [0;39m - Container testcontainers/cs7dzwqzpggtxav6:latest is starting: 92bdd46dddf875a6e79cf8a6ee15544a222f36935f600101ff8f5c55e04ff062 
+06:46:37.121 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+06:46:37.130 [34mINFO [0;39m - /busy_shockley: Waiting for 60 seconds for URL: http://localhost:32778/ 
+06:46:40.205 [34mINFO [0;39m - Container testcontainers/cs7dzwqzpggtxav6:latest started in PT3.875S 

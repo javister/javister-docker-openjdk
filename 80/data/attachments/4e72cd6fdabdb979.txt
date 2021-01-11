@@ -1,0 +1,11 @@
+12:55:55.635 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+12:55:55.652 [34mINFO [0;39m - Creating container for image: testcontainers/6zem23yloo9jzzbp:latest 
+12:55:55.679 [34mINFO [0;39m - Starting container with ID: 25ce11e8250e08194182da647306364cd6c90b7c03180d641ed08129d8f5da99 
+12:55:56.043 [34mINFO [0;39m - Container testcontainers/6zem23yloo9jzzbp:latest is starting: 25ce11e8250e08194182da647306364cd6c90b7c03180d641ed08129d8f5da99 
+12:55:56.117 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32777 *************
+****************************************************
+ 
+12:55:56.135 [34mINFO [0;39m - /pedantic_kalam: Waiting for 60 seconds for URL: http://localhost:32778/ 
+12:55:59.215 [34mINFO [0;39m - Container testcontainers/6zem23yloo9jzzbp:latest started in PT4.118S 

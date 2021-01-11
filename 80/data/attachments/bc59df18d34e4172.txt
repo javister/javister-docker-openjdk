@@ -1,0 +1,16 @@
+12:55:30.550 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+12:55:38.042 [34mINFO [0;39m - Creating container for image: testcontainers/5nuuzwbrfekhrh6g:latest 
+12:55:38.064 [34mINFO [0;39m - Starting container with ID: 75429415dfb74b6a3d2644c50012be8faf8e484b82df81fdc1c322a925229f40 
+12:55:38.462 [34mINFO [0;39m - Container testcontainers/5nuuzwbrfekhrh6g:latest is starting: 75429415dfb74b6a3d2644c50012be8faf8e484b82df81fdc1c322a925229f40 
+12:55:38.473 [34mINFO [0;39m - /recursing_moore: Waiting for 60 seconds for URL: http://localhost:32772/ 
+12:55:41.599 [34mINFO [0;39m - Container testcontainers/5nuuzwbrfekhrh6g:latest started in PT11.565S 
+12:55:41.599 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+12:55:41.636 [34mINFO [0;39m - Starting container with ID: 949a5251cfad0a9f31ca481458e6133e67921534ceeb99959b2e9c74a1bd8bac 
+12:55:42.043 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 949a5251cfad0a9f31ca481458e6133e67921534ceeb99959b2e9c74a1bd8bac 
+12:55:42.125 [34mINFO [0;39m - /romantic_heyrovsky: Waiting for 60 seconds for URL: http://localhost:32773/ 
+12:55:43.788 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.189S 
+12:55:43.798 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+12:55:46.030 [34mINFO [0;39m - Creating container for image: testcontainers/xgg1xewdgeeujkta:latest 
+12:55:46.050 [34mINFO [0;39m - Starting container with ID: 06cc3b6fe6a796dfdcbc70eda1f8b13b9a116f5634b852459d0188ba2eb623f4 
+12:55:46.398 [34mINFO [0;39m - Container testcontainers/xgg1xewdgeeujkta:latest is starting: 06cc3b6fe6a796dfdcbc70eda1f8b13b9a116f5634b852459d0188ba2eb623f4 
+12:55:46.407 [34mINFO [0;39m - Container testcontainers/xgg1xewdgeeujkta:latest started in PT2.617S 

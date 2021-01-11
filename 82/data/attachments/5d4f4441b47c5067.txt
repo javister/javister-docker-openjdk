@@ -1,0 +1,11 @@
+13:02:40.412 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:02:40.428 [34mINFO [0;39m - Creating container for image: testcontainers/4gsrdei6fo6mtlno:latest 
+13:02:40.448 [34mINFO [0;39m - Starting container with ID: a13b2e8cb830fe458d1b62fd9583c782b2fda4026bd602e2585afb902c40f15b 
+13:02:40.822 [34mINFO [0;39m - Container testcontainers/4gsrdei6fo6mtlno:latest is starting: a13b2e8cb830fe458d1b62fd9583c782b2fda4026bd602e2585afb902c40f15b 
+13:02:40.828 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:32779 *************
+****************************************************
+ 
+13:02:40.831 [34mINFO [0;39m - /nifty_murdock: Waiting for 60 seconds for URL: http://localhost:32780/ 
+13:02:43.914 [34mINFO [0;39m - Container testcontainers/4gsrdei6fo6mtlno:latest started in PT3.954S 

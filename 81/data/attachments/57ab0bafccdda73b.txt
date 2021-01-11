@@ -1,0 +1,16 @@
+12:57:24.571 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+12:57:31.045 [34mINFO [0;39m - Creating container for image: testcontainers/ftih897a2f5smwrc:latest 
+12:57:31.074 [34mINFO [0;39m - Starting container with ID: 1cca1f36fa277ccab41d0f43408ba0221f28d8152e6f87640870cc08fb919f98 
+12:57:31.479 [34mINFO [0;39m - Container testcontainers/ftih897a2f5smwrc:latest is starting: 1cca1f36fa277ccab41d0f43408ba0221f28d8152e6f87640870cc08fb919f98 
+12:57:31.493 [34mINFO [0;39m - /condescending_almeida: Waiting for 60 seconds for URL: http://localhost:32772/ 
+12:57:35.625 [34mINFO [0;39m - Container testcontainers/ftih897a2f5smwrc:latest started in PT11.586S 
+12:57:35.626 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+12:57:35.679 [34mINFO [0;39m - Starting container with ID: 96678f6318214e7e7b3bd39433dc847858e55be3bc77d6646cf5f81ee44ab555 
+12:57:36.088 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 96678f6318214e7e7b3bd39433dc847858e55be3bc77d6646cf5f81ee44ab555 
+12:57:36.168 [34mINFO [0;39m - /intelligent_kowalevski: Waiting for 60 seconds for URL: http://localhost:32773/ 
+12:57:37.796 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.17S 
+12:57:37.801 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+12:57:40.039 [34mINFO [0;39m - Creating container for image: testcontainers/4trufmvuv9obwaz6:latest 
+12:57:40.062 [34mINFO [0;39m - Starting container with ID: 01d4baafa9a68b327b093ee40cb03c6591019c8d07d4cb97f59d0f91a34d3ca5 
+12:57:40.414 [34mINFO [0;39m - Container testcontainers/4trufmvuv9obwaz6:latest is starting: 01d4baafa9a68b327b093ee40cb03c6591019c8d07d4cb97f59d0f91a34d3ca5 
+12:57:40.418 [34mINFO [0;39m - Container testcontainers/4trufmvuv9obwaz6:latest started in PT2.62S 

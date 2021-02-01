@@ -1,0 +1,16 @@
+09:26:12.655 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:26:19.039 [34mINFO [0;39m - Creating container for image: testcontainers/mtgpd1pvqwshdttf:latest 
+09:26:19.061 [34mINFO [0;39m - Starting container with ID: ef3b319f47208877ac14937da5c987a9196ef32fb301dca484a6f3c503f2c4ff 
+09:26:19.433 [34mINFO [0;39m - Container testcontainers/mtgpd1pvqwshdttf:latest is starting: ef3b319f47208877ac14937da5c987a9196ef32fb301dca484a6f3c503f2c4ff 
+09:26:19.456 [34mINFO [0;39m - /bold_tesla: Waiting for 60 seconds for URL: http://localhost:32773/ 
+09:26:22.545 [34mINFO [0;39m - Container testcontainers/mtgpd1pvqwshdttf:latest started in PT10.324S 
+09:26:22.545 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:26:22.595 [34mINFO [0;39m - Starting container with ID: 19ce6de236425f6b6c13875d558bf50a2dee6bf6fc5070f82aed47a2994f22fd 
+09:26:22.974 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 19ce6de236425f6b6c13875d558bf50a2dee6bf6fc5070f82aed47a2994f22fd 
+09:26:23.120 [34mINFO [0;39m - /vigorous_almeida: Waiting for 60 seconds for URL: http://localhost:32775/ 
+09:26:24.776 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.231S 
+09:26:24.788 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:26:27.031 [34mINFO [0;39m - Creating container for image: testcontainers/q3kxafeme8hgjdgx:latest 
+09:26:27.052 [34mINFO [0;39m - Starting container with ID: d6a63a82bee070526b1b08c7398aa4fc9224ba28e725b263fd4d2b2932b6ae01 
+09:26:27.376 [34mINFO [0;39m - Container testcontainers/q3kxafeme8hgjdgx:latest is starting: d6a63a82bee070526b1b08c7398aa4fc9224ba28e725b263fd4d2b2932b6ae01 
+09:26:27.388 [34mINFO [0;39m - Container testcontainers/q3kxafeme8hgjdgx:latest started in PT2.612S 

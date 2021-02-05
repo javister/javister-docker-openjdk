@@ -1,0 +1,11 @@
+15:40:30.681 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+15:40:30.695 [34mINFO [0;39m - Creating container for image: testcontainers/mbvsxzeejntreacm:latest 
+15:40:30.712 [34mINFO [0;39m - Starting container with ID: 3a4f794171ab364122c996f487441bcbcee07582f11f83dc35c35063d0e7977a 
+15:40:31.086 [34mINFO [0;39m - Container testcontainers/mbvsxzeejntreacm:latest is starting: 3a4f794171ab364122c996f487441bcbcee07582f11f83dc35c35063d0e7977a 
+15:40:31.103 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49162 *************
+****************************************************
+ 
+15:40:31.110 [34mINFO [0;39m - /festive_bell: Waiting for 60 seconds for URL: http://localhost:49163/ 
+15:40:34.189 [34mINFO [0;39m - Container testcontainers/mbvsxzeejntreacm:latest started in PT3.906S 

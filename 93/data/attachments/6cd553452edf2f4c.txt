@@ -1,0 +1,16 @@
+16:31:10.626 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:31:17.040 [34mINFO [0;39m - Creating container for image: testcontainers/oj7t2hdnuw9oqzpk:latest 
+16:31:17.064 [34mINFO [0;39m - Starting container with ID: 3d23d5e18e1b3930b3e1672aa49468f8e611e9010c3b5a1c441671ae51807da4 
+16:31:17.482 [34mINFO [0;39m - Container testcontainers/oj7t2hdnuw9oqzpk:latest is starting: 3d23d5e18e1b3930b3e1672aa49468f8e611e9010c3b5a1c441671ae51807da4 
+16:31:17.506 [34mINFO [0;39m - /adoring_brattain: Waiting for 60 seconds for URL: http://localhost:49158/ 
+16:31:20.623 [34mINFO [0;39m - Container testcontainers/oj7t2hdnuw9oqzpk:latest started in PT10.396S 
+16:31:20.624 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+16:31:20.646 [34mINFO [0;39m - Starting container with ID: be0b6c5a9589682b3a3a75d2e5135e87aadea60dff8c930e585b029aebbd10c3 
+16:31:21.108 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: be0b6c5a9589682b3a3a75d2e5135e87aadea60dff8c930e585b029aebbd10c3 
+16:31:21.237 [34mINFO [0;39m - /brave_hopper: Waiting for 60 seconds for URL: http://localhost:49160/ 
+16:31:22.906 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.282S 
+16:31:22.927 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+16:31:26.033 [34mINFO [0;39m - Creating container for image: testcontainers/j9qqhsrwnde4zjhv:latest 
+16:31:26.054 [34mINFO [0;39m - Starting container with ID: 7d11dce3c86eace07db40463a9292ee078b83a636522b2d8624af518d0fdfbc8 
+16:31:26.392 [34mINFO [0;39m - Container testcontainers/j9qqhsrwnde4zjhv:latest is starting: 7d11dce3c86eace07db40463a9292ee078b83a636522b2d8624af518d0fdfbc8 
+16:31:26.397 [34mINFO [0;39m - Container testcontainers/j9qqhsrwnde4zjhv:latest started in PT3.48S 

@@ -1,0 +1,16 @@
+16:09:17.051 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:09:24.042 [34mINFO [0;39m - Creating container for image: testcontainers/h7gsrhvrmna3mykd:latest 
+16:09:24.063 [34mINFO [0;39m - Starting container with ID: 98205d41936e3856c99e25613ca88b7283dcac9eda69c6a5e94c0658f1d768c0 
+16:09:24.469 [34mINFO [0;39m - Container testcontainers/h7gsrhvrmna3mykd:latest is starting: 98205d41936e3856c99e25613ca88b7283dcac9eda69c6a5e94c0658f1d768c0 
+16:09:24.476 [34mINFO [0;39m - /sweet_lamport: Waiting for 60 seconds for URL: http://localhost:49157/ 
+16:09:27.597 [34mINFO [0;39m - Container testcontainers/h7gsrhvrmna3mykd:latest started in PT10.921S 
+16:09:27.597 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+16:09:27.622 [34mINFO [0;39m - Starting container with ID: e371f7f32e19716ec19b6de295d4353e3d8a294ee0370f1ea2c40efbf478b5aa 
+16:09:28.034 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: e371f7f32e19716ec19b6de295d4353e3d8a294ee0370f1ea2c40efbf478b5aa 
+16:09:28.123 [34mINFO [0;39m - /gifted_haslett: Waiting for 60 seconds for URL: http://localhost:49158/ 
+16:09:29.759 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.162S 
+16:09:29.767 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+16:09:32.027 [34mINFO [0;39m - Creating container for image: testcontainers/xdng8ykqmzzcse7h:latest 
+16:09:32.047 [34mINFO [0;39m - Starting container with ID: 1cc7eec5ed17e41a4642607e9a40a2d8b4de474f2f13c060a8ba2bb5bd980e95 
+16:09:32.390 [34mINFO [0;39m - Container testcontainers/xdng8ykqmzzcse7h:latest is starting: 1cc7eec5ed17e41a4642607e9a40a2d8b4de474f2f13c060a8ba2bb5bd980e95 
+16:09:32.410 [34mINFO [0;39m - Container testcontainers/xdng8ykqmzzcse7h:latest started in PT2.65S 

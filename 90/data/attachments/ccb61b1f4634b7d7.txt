@@ -1,0 +1,11 @@
+16:09:37.093 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:09:37.106 [34mINFO [0;39m - Creating container for image: testcontainers/wzgsgywguzthmvzg:latest 
+16:09:37.126 [34mINFO [0;39m - Starting container with ID: b914725dba6ec5f5d54a919d42b9706b1ae288aaf93676894d4cde55802ff071 
+16:09:37.535 [34mINFO [0;39m - Container testcontainers/wzgsgywguzthmvzg:latest is starting: b914725dba6ec5f5d54a919d42b9706b1ae288aaf93676894d4cde55802ff071 
+16:09:37.548 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49160 *************
+****************************************************
+ 
+16:09:37.557 [34mINFO [0;39m - /hardcore_montalcini: Waiting for 60 seconds for URL: http://localhost:49161/ 
+16:09:40.648 [34mINFO [0;39m - Container testcontainers/wzgsgywguzthmvzg:latest started in PT4.041S 

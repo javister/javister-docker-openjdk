@@ -1,0 +1,31 @@
+16:08:39.987 [31mWARN [0;39m - Attempted to read Testcontainers configuration file at file:/home/runner/.testcontainers.properties but the file was not found. Exception message: FileNotFoundException: /home/runner/.testcontainers.properties (No such file or directory) 
+16:08:40.007 [34mINFO [0;39m - docker-machine executable was not found on PATH ([/opt/hostedtoolcache/jdk/8.0.282/x64/bin, /home/linuxbrew/.linuxbrew/bin, /home/linuxbrew/.linuxbrew/sbin, /opt/pipx_bin, /usr/share/rust/.cargo/bin, /home/runner/.config/composer/vendor/bin, /home/runner/.dotnet/tools, /snap/bin, /usr/local/sbin, /usr/local/bin, /usr/sbin, /usr/bin, /sbin, /bin, /usr/games, /usr/local/games, /snap/bin]) 
+16:08:40.747 [34mINFO [0;39m - Found Docker environment with local Unix socket (unix:///var/run/docker.sock) 
+16:08:40.752 [34mINFO [0;39m - Docker host IP address is localhost 
+16:08:40.799 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 20.10.2+azure
+  API Version: 1.41
+  Operating System: Ubuntu 18.04.5 LTS
+  Total Memory: 6954 MB 
+16:08:40.805 [34mINFO [0;39m - Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor') 
+16:08:42.956 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+16:08:42.956 [34mINFO [0;39m - Checking the system... 
+16:08:42.958 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+16:08:43.201 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+16:08:43.857 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:08:51.092 [34mINFO [0;39m - Creating container for image: testcontainers/9xukubywcztifmor:latest 
+16:08:51.129 [34mINFO [0;39m - Starting container with ID: 852cfa14f24f2756c79055ea3132c48dbd11a68ca9a744c87092fe4b972a5fb3 
+16:08:51.560 [34mINFO [0;39m - Container testcontainers/9xukubywcztifmor:latest is starting: 852cfa14f24f2756c79055ea3132c48dbd11a68ca9a744c87092fe4b972a5fb3 
+16:08:51.606 [34mINFO [0;39m - /wonderful_stonebraker: Waiting for 60 seconds for URL: http://localhost:49154/ 
+16:08:54.732 [34mINFO [0;39m - Container testcontainers/9xukubywcztifmor:latest started in PT11.385S 
+16:08:54.738 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+16:08:59.358 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+16:09:02.474 [34mINFO [0;39m - Starting container with ID: 2577f51d929853d04342284b2fb32be521be8c5846be43014746341dc8ead152 
+16:09:03.147 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 2577f51d929853d04342284b2fb32be521be8c5846be43014746341dc8ead152 
+16:09:03.293 [34mINFO [0;39m - /epic_sutherland: Waiting for 60 seconds for URL: http://localhost:49155/ 
+16:09:05.570 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT10.834S 
+16:09:05.585 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+16:09:08.043 [34mINFO [0;39m - Creating container for image: testcontainers/zg1nrtu4jafm541p:latest 
+16:09:08.066 [34mINFO [0;39m - Starting container with ID: b55909f90e97b7a61ba6ed794e5893de04d7b72a4eeede4851c395f3e6d27185 
+16:09:08.492 [34mINFO [0;39m - Container testcontainers/zg1nrtu4jafm541p:latest is starting: b55909f90e97b7a61ba6ed794e5893de04d7b72a4eeede4851c395f3e6d27185 
+16:09:08.507 [34mINFO [0;39m - Container testcontainers/zg1nrtu4jafm541p:latest started in PT2.935S 

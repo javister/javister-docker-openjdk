@@ -1,0 +1,11 @@
+16:37:19.193 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:37:19.209 [34mINFO [0;39m - Creating container for image: testcontainers/tkrmhaweyhezfait:latest 
+16:37:19.226 [34mINFO [0;39m - Starting container with ID: 38a710db9b9a38aaa1c37e3c6157a24189019e4993ae05c2230673306ca01cb1 
+16:37:19.606 [34mINFO [0;39m - Container testcontainers/tkrmhaweyhezfait:latest is starting: 38a710db9b9a38aaa1c37e3c6157a24189019e4993ae05c2230673306ca01cb1 
+16:37:19.610 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49160 *************
+****************************************************
+ 
+16:37:19.611 [34mINFO [0;39m - /reverent_bouman: Waiting for 60 seconds for URL: http://localhost:49161/ 
+16:37:22.696 [34mINFO [0;39m - Container testcontainers/tkrmhaweyhezfait:latest started in PT3.963S 

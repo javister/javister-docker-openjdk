@@ -1,0 +1,11 @@
+16:37:23.386 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+16:37:23.401 [34mINFO [0;39m - Creating container for image: testcontainers/etr7guuvjdxlh31s:latest 
+16:37:23.418 [34mINFO [0;39m - Starting container with ID: f95b7055ca685ab706e9b142d233d864fa0b72b8d3d36f77bd624706d361f56c 
+16:37:23.820 [34mINFO [0;39m - Container testcontainers/etr7guuvjdxlh31s:latest is starting: f95b7055ca685ab706e9b142d233d864fa0b72b8d3d36f77bd624706d361f56c 
+16:37:23.832 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49162 *************
+****************************************************
+ 
+16:37:23.834 [34mINFO [0;39m - /youthful_stonebraker: Waiting for 60 seconds for URL: http://localhost:49163/ 
+16:37:26.928 [34mINFO [0;39m - Container testcontainers/etr7guuvjdxlh31s:latest started in PT4.002S 

@@ -1,0 +1,11 @@
+06:30:25.224 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:30:25.239 [34mINFO [0;39m - Creating container for image: testcontainers/gxh4pdekexfyv7xa:latest 
+06:30:25.258 [34mINFO [0;39m - Starting container with ID: 5854081eb1f73104411eb335188b0c5cd8e535b31ed04b2aa7cff33804cf0a45 
+06:30:25.649 [34mINFO [0;39m - Container testcontainers/gxh4pdekexfyv7xa:latest is starting: 5854081eb1f73104411eb335188b0c5cd8e535b31ed04b2aa7cff33804cf0a45 
+06:30:25.651 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49164 *************
+****************************************************
+ 
+06:30:25.658 [34mINFO [0;39m - /musing_keldysh: Waiting for 60 seconds for URL: http://localhost:49165/ 
+06:30:28.733 [34mINFO [0;39m - Container testcontainers/gxh4pdekexfyv7xa:latest started in PT3.958S 

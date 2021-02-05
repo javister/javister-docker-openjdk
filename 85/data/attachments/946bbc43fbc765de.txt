@@ -1,0 +1,11 @@
+06:30:21.026 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:30:21.041 [34mINFO [0;39m - Creating container for image: testcontainers/ufg9q324gbrlwjrk:latest 
+06:30:21.058 [34mINFO [0;39m - Starting container with ID: 06ad4ef835cacc16d28fa6f59482bf14fb0745ca1f7b29c745e72f55df203bc7 
+06:30:21.443 [34mINFO [0;39m - Container testcontainers/ufg9q324gbrlwjrk:latest is starting: 06ad4ef835cacc16d28fa6f59482bf14fb0745ca1f7b29c745e72f55df203bc7 
+06:30:21.446 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49162 *************
+****************************************************
+ 
+06:30:21.448 [34mINFO [0;39m - /vigorous_payne: Waiting for 60 seconds for URL: http://localhost:49163/ 
+06:30:24.533 [34mINFO [0;39m - Container testcontainers/ufg9q324gbrlwjrk:latest started in PT3.981S 

@@ -1,0 +1,16 @@
+06:30:00.020 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:30:07.044 [34mINFO [0;39m - Creating container for image: testcontainers/mvrnr8sktwzwqkvj:latest 
+06:30:07.064 [34mINFO [0;39m - Starting container with ID: 455e51660088c08b7616b99b8cbc226f9bbaa4b1147bd9649669d40b729c5fdd 
+06:30:07.526 [34mINFO [0;39m - Container testcontainers/mvrnr8sktwzwqkvj:latest is starting: 455e51660088c08b7616b99b8cbc226f9bbaa4b1147bd9649669d40b729c5fdd 
+06:30:07.547 [34mINFO [0;39m - /goofy_benz: Waiting for 60 seconds for URL: http://localhost:49158/ 
+06:30:11.653 [34mINFO [0;39m - Container testcontainers/mvrnr8sktwzwqkvj:latest started in PT12.127S 
+06:30:11.653 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:30:11.686 [34mINFO [0;39m - Starting container with ID: f321371c8601f6347e73e5d4ed5ca6fd48b7e32eafbc3396c8abc6ccfa3980bd 
+06:30:12.119 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: f321371c8601f6347e73e5d4ed5ca6fd48b7e32eafbc3396c8abc6ccfa3980bd 
+06:30:12.276 [34mINFO [0;39m - /jolly_leavitt: Waiting for 60 seconds for URL: http://localhost:49160/ 
+06:30:13.816 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.163S 
+06:30:13.828 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:30:16.031 [34mINFO [0;39m - Creating container for image: testcontainers/eckyh5xfg9pkz5tz:latest 
+06:30:16.056 [34mINFO [0;39m - Starting container with ID: 5fdc78baa9d222fe918956b02e397364fe20d519961e1ffcf8b18e328f10c0e7 
+06:30:16.416 [34mINFO [0;39m - Container testcontainers/eckyh5xfg9pkz5tz:latest is starting: 5fdc78baa9d222fe918956b02e397364fe20d519961e1ffcf8b18e328f10c0e7 
+06:30:16.435 [34mINFO [0;39m - Container testcontainers/eckyh5xfg9pkz5tz:latest started in PT2.618S 

@@ -1,0 +1,11 @@
+14:25:30.919 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:25:30.936 [34mINFO [0;39m - Creating container for image: testcontainers/8wcxnsqdideetkxb:latest 
+14:25:30.957 [34mINFO [0;39m - Starting container with ID: 676376fd71e73ab6993e4ec51be28af00911a74658a4d6d04118891e61830946 
+14:25:31.396 [34mINFO [0;39m - Container testcontainers/8wcxnsqdideetkxb:latest is starting: 676376fd71e73ab6993e4ec51be28af00911a74658a4d6d04118891e61830946 
+14:25:31.402 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49160 *************
+****************************************************
+ 
+14:25:31.408 [34mINFO [0;39m - /affectionate_heyrovsky: Waiting for 60 seconds for URL: http://localhost:49161/ 
+14:25:34.505 [34mINFO [0;39m - Container testcontainers/8wcxnsqdideetkxb:latest started in PT4.132S 

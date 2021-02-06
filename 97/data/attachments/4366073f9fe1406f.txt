@@ -1,0 +1,16 @@
+14:25:07.701 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:25:15.043 [34mINFO [0;39m - Creating container for image: testcontainers/ph5zd4qxv8rdzqyd:latest 
+14:25:15.081 [34mINFO [0;39m - Starting container with ID: df4059abf82e2e6500d407ae9cefed63b630f2ca414960597ed84eb72b3772c9 
+14:25:15.594 [34mINFO [0;39m - Container testcontainers/ph5zd4qxv8rdzqyd:latest is starting: df4059abf82e2e6500d407ae9cefed63b630f2ca414960597ed84eb72b3772c9 
+14:25:15.604 [34mINFO [0;39m - /bold_mccarthy: Waiting for 60 seconds for URL: http://localhost:49157/ 
+14:25:19.699 [34mINFO [0;39m - Container testcontainers/ph5zd4qxv8rdzqyd:latest started in PT12.541S 
+14:25:19.699 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+14:25:19.744 [34mINFO [0;39m - Starting container with ID: 88f3b31d79f5d18fee7d6773b4a026ac5c9d1c4b4fc1c5d170fed08e41a95ab8 
+14:25:20.135 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 88f3b31d79f5d18fee7d6773b4a026ac5c9d1c4b4fc1c5d170fed08e41a95ab8 
+14:25:20.217 [34mINFO [0;39m - /hardcore_margulis: Waiting for 60 seconds for URL: http://localhost:49158/ 
+14:25:21.914 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.215S 
+14:25:21.918 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+14:25:25.046 [34mINFO [0;39m - Creating container for image: testcontainers/yvknttgpgzrz5idt:latest 
+14:25:25.068 [34mINFO [0;39m - Starting container with ID: 2410a82be13b0c5e6e1cd6383362d074d4fa717f11641369a9155502b508d635 
+14:25:25.461 [34mINFO [0;39m - Container testcontainers/yvknttgpgzrz5idt:latest is starting: 2410a82be13b0c5e6e1cd6383362d074d4fa717f11641369a9155502b508d635 
+14:25:25.476 [34mINFO [0;39m - Container testcontainers/yvknttgpgzrz5idt:latest started in PT3.561S 

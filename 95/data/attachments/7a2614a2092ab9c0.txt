@@ -1,0 +1,11 @@
+14:08:18.376 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:08:18.392 [34mINFO [0;39m - Creating container for image: testcontainers/xveaeajypyqabkqq:latest 
+14:08:18.414 [34mINFO [0;39m - Starting container with ID: 0c0630e96f6cff463c5e932553c042273e75d4e19343f053686073b907734a16 
+14:08:18.799 [34mINFO [0;39m - Container testcontainers/xveaeajypyqabkqq:latest is starting: 0c0630e96f6cff463c5e932553c042273e75d4e19343f053686073b907734a16 
+14:08:18.802 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49164 *************
+****************************************************
+ 
+14:08:18.805 [34mINFO [0;39m - /friendly_sutherland: Waiting for 60 seconds for URL: http://localhost:49165/ 
+14:08:21.898 [34mINFO [0;39m - Container testcontainers/xveaeajypyqabkqq:latest started in PT3.97S 

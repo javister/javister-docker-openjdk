@@ -46,9 +46,9 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray-javister</id>
-            <name>javister-dockertesting</name>
-            <url>https://artifactory.krista.ru/artifactory/javister-docker-openjdk</url>
+            <id>krista-maven-public</id>
+            <name>Artifactori-external-releases</name>
+            <url>https://artifactory.krista.ru/artifactory/maven-javister-docker-openjdk</url>
         </repository>
     </distributionManagement>
 

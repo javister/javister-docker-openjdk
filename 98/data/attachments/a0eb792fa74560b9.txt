@@ -1,0 +1,11 @@
+14:26:35.969 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:26:35.983 [34mINFO [0;39m - Creating container for image: testcontainers/prrc892a4qj6j5rl:latest 
+14:26:36.003 [34mINFO [0;39m - Starting container with ID: ce76dc515509ca865b8b93e2cdf7a0f3f7cef06013d4914a8f23afcdb342ce20 
+14:26:36.374 [34mINFO [0;39m - Container testcontainers/prrc892a4qj6j5rl:latest is starting: ce76dc515509ca865b8b93e2cdf7a0f3f7cef06013d4914a8f23afcdb342ce20 
+14:26:36.390 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49162 *************
+****************************************************
+ 
+14:26:36.397 [34mINFO [0;39m - /awesome_maxwell: Waiting for 60 seconds for URL: http://localhost:49163/ 
+14:26:39.478 [34mINFO [0;39m - Container testcontainers/prrc892a4qj6j5rl:latest started in PT3.936S 

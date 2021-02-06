@@ -1,0 +1,16 @@
+14:26:15.414 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:26:22.044 [34mINFO [0;39m - Creating container for image: testcontainers/spjdz2mi77btje3w:latest 
+14:26:22.066 [34mINFO [0;39m - Starting container with ID: 888a29faa79d57390ce58448bf884a5f7df0c355f305b9ddccacd8e55bb7c6d5 
+14:26:22.499 [34mINFO [0;39m - Container testcontainers/spjdz2mi77btje3w:latest is starting: 888a29faa79d57390ce58448bf884a5f7df0c355f305b9ddccacd8e55bb7c6d5 
+14:26:22.519 [34mINFO [0;39m - /dazzling_williamson: Waiting for 60 seconds for URL: http://localhost:49158/ 
+14:26:26.612 [34mINFO [0;39m - Container testcontainers/spjdz2mi77btje3w:latest started in PT11.595S 
+14:26:26.613 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+14:26:26.662 [34mINFO [0;39m - Starting container with ID: e5174d6f37724c6194c394c19c56b64c2ee543917f6a72f1cf7362b666e0b2c8 
+14:26:27.077 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: e5174d6f37724c6194c394c19c56b64c2ee543917f6a72f1cf7362b666e0b2c8 
+14:26:27.266 [34mINFO [0;39m - /condescending_snyder: Waiting for 60 seconds for URL: http://localhost:49160/ 
+14:26:28.806 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.193S 
+14:26:28.815 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+14:26:31.070 [34mINFO [0;39m - Creating container for image: testcontainers/fqip52rohd9nnnoz:latest 
+14:26:31.087 [34mINFO [0;39m - Starting container with ID: a76f1502e1e323d7a80e7b332634c980a08d727ee50ba78dd71df305e97f7988 
+14:26:31.448 [34mINFO [0;39m - Container testcontainers/fqip52rohd9nnnoz:latest is starting: a76f1502e1e323d7a80e7b332634c980a08d727ee50ba78dd71df305e97f7988 
+14:26:31.457 [34mINFO [0;39m - Container testcontainers/fqip52rohd9nnnoz:latest started in PT2.651S 

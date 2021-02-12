@@ -1,0 +1,16 @@
+14:53:11.660 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:53:19.059 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/zteesrwbzis3mton:latest 
+14:53:19.086 [34mINFO [0;39m - Starting container with ID: b73a9cc5cc8605ce07f4ad5aea4714d2fc33d185a5f846e4e7b881145fcb9bc3 
+14:53:19.585 [34mINFO [0;39m - Container localhost/testcontainers/zteesrwbzis3mton:latest is starting: b73a9cc5cc8605ce07f4ad5aea4714d2fc33d185a5f846e4e7b881145fcb9bc3 
+14:53:19.601 [34mINFO [0;39m - /tender_ritchie: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+14:53:22.702 [34mINFO [0;39m - Container localhost/testcontainers/zteesrwbzis3mton:latest started in PT11.558S 
+14:53:22.702 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+14:53:22.733 [34mINFO [0;39m - Starting container with ID: 8899f8ae66bdbaf752ffaddebb48b8b4e2d339038038f977bbd8edee945810d8 
+14:53:23.122 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 8899f8ae66bdbaf752ffaddebb48b8b4e2d339038038f977bbd8edee945810d8 
+14:53:23.205 [34mINFO [0;39m - /agitated_pike: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+14:53:24.897 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.195S 
+14:53:24.905 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+14:53:28.033 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/bt2zaz4yghnk7k8s:latest 
+14:53:28.055 [34mINFO [0;39m - Starting container with ID: 03e0cd4b03640941cf4c75602326281db154d1c94e62848bb255138cf42ccc40 
+14:53:28.562 [34mINFO [0;39m - Container localhost/testcontainers/bt2zaz4yghnk7k8s:latest is starting: 03e0cd4b03640941cf4c75602326281db154d1c94e62848bb255138cf42ccc40 
+14:53:28.574 [34mINFO [0;39m - Container localhost/testcontainers/bt2zaz4yghnk7k8s:latest started in PT3.677S 

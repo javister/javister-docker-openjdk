@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "OpenJDK release: V8",
+    "uid" : "cb0daf2fbe0fba1c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613141549895,
+      "stop" : 1613141590888,
+      "duration" : 40993
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "OpenJDK release: V11",
+    "uid" : "cea4408ba435fcfb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613141591003,
+      "stop" : 1613141613199,
+      "duration" : 22196
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "OpenJDK release: V8",
+    "uid" : "a8cd7a68ae12412c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613141613219,
+      "stop" : 1613141617793,
+      "duration" : 4574
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "OpenJDK release: V11",
+    "uid" : "d627afff7ca338d6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613141617819,
+      "stop" : 1613141622217,
+      "duration" : 4398
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

@@ -1,0 +1,265 @@
+{
+  "uid" : "cb0daf2fbe0fba1c",
+  "name" : "OpenJDK release: V8",
+  "fullName" : "com.github.javister.docker.testing.openjdk.DirectImageIT.proxyRequestTest",
+  "historyId" : "61517e23747a5a7cbe3abc5a32e11d1e",
+  "time" : {
+    "start" : 1613141549895,
+    "stop" : 1613141590888,
+    "duration" : 40993
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2f41afa5385c8277",
+      "name" : "Stdout",
+      "source" : "2f41afa5385c8277.txt",
+      "type" : "text/plain",
+      "size" : 3782
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az208-999"
+  }, {
+    "name" : "thread",
+    "value" : "3753@fv-az208-999.ForkJoinPool-1-worker-1(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "testClass",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "testMethod",
+    "value" : "proxyRequestTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.github.javister.docker.testing.openjdk.DirectImageIT"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 42,
+        "unknown" : 0,
+        "total" : 42
+      },
+      "items" : [ {
+        "uid" : "6d0de1f007129649",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/98//#testresult/6d0de1f007129649",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612621538197,
+          "stop" : 1612621574802,
+          "duration" : 36605
+        }
+      }, {
+        "uid" : "9b78e8793c076a30",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/97//#testresult/9b78e8793c076a30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612621465660,
+          "stop" : 1612621506906,
+          "duration" : 41246
+        }
+      }, {
+        "uid" : "52c40ba8b8964748",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/95//#testresult/52c40ba8b8964748",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612620434990,
+          "stop" : 1612620472933,
+          "duration" : 37943
+        }
+      }, {
+        "uid" : "ab6062c20066fd93",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/94//#testresult/ab6062c20066fd93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612542979900,
+          "stop" : 1612543017619,
+          "duration" : 37719
+        }
+      }, {
+        "uid" : "968f0c276a11297f",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/93//#testresult/968f0c276a11297f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612542634526,
+          "stop" : 1612542669935,
+          "duration" : 35409
+        }
+      }, {
+        "uid" : "ee922375bcd586b0",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/90//#testresult/ee922375bcd586b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612541319438,
+          "stop" : 1612541356483,
+          "duration" : 37045
+        }
+      }, {
+        "uid" : "32075f437f43a970",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/88//#testresult/32075f437f43a970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612540989121,
+          "stop" : 1612541025317,
+          "duration" : 36196
+        }
+      }, {
+        "uid" : "bb506fa95edbc06c",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/87//#testresult/bb506fa95edbc06c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612540838817,
+          "stop" : 1612540878088,
+          "duration" : 39271
+        }
+      }, {
+        "uid" : "718e33fed6ea5968",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/86//#testresult/718e33fed6ea5968",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612539574388,
+          "stop" : 1612539610080,
+          "duration" : 35692
+        }
+      }, {
+        "uid" : "d2e3a7b1b62c46cc",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/85//#testresult/d2e3a7b1b62c46cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612506562959,
+          "stop" : 1612506599322,
+          "duration" : 36363
+        }
+      }, {
+        "uid" : "9f719f886455276f",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/84//#testresult/9f719f886455276f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612297984750,
+          "stop" : 1612298025821,
+          "duration" : 41071
+        }
+      }, {
+        "uid" : "2d2db30d4e7daaf0",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/83//#testresult/2d2db30d4e7daaf0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612171538482,
+          "stop" : 1612171572068,
+          "duration" : 33586
+        }
+      }, {
+        "uid" : "c27d56f40df991d6",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/82//#testresult/c27d56f40df991d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610370097409,
+          "stop" : 1610370134769,
+          "duration" : 37360
+        }
+      }, {
+        "uid" : "fdbd3d6e7ea19ba8",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/81//#testresult/fdbd3d6e7ea19ba8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610369804819,
+          "stop" : 1610369843810,
+          "duration" : 38991
+        }
+      }, {
+        "uid" : "acb39898d4ab0306",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/80//#testresult/acb39898d4ab0306",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610369688044,
+          "stop" : 1610369729781,
+          "duration" : 41737
+        }
+      }, {
+        "uid" : "76623e387e7791e7",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/79//#testresult/76623e387e7791e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609138343357,
+          "stop" : 1609138380921,
+          "duration" : 37564
+        }
+      }, {
+        "uid" : "9220608c3a79af79",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/78//#testresult/9220608c3a79af79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609137940827,
+          "stop" : 1609137976359,
+          "duration" : 35532
+        }
+      }, {
+        "uid" : "292b255e7a04afd4",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/77//#testresult/292b255e7a04afd4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608825867628,
+          "stop" : 1608825902813,
+          "duration" : 35185
+        }
+      }, {
+        "uid" : "7888bb9606e1ddc4",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/76//#testresult/7888bb9606e1ddc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608816360156,
+          "stop" : 1608816398987,
+          "duration" : 38831
+        }
+      }, {
+        "uid" : "bff65e451332719b",
+        "reportUrl" : "https://javister.github.io/javister-docker-openjdk/75//#testresult/bff65e451332719b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608814346896,
+          "stop" : 1608814389084,
+          "duration" : 42188
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "cb0daf2fbe0fba1c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,16 @@
+14:59:24.363 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:59:31.039 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/bkwcep9mwweawmfy:latest 
+14:59:31.053 [34mINFO [0;39m - Starting container with ID: eee167272132381020ca86a73de3748e4c37a764bebbbbc3492034a908ccdaf4 
+14:59:31.528 [34mINFO [0;39m - Container localhost/testcontainers/bkwcep9mwweawmfy:latest is starting: eee167272132381020ca86a73de3748e4c37a764bebbbbc3492034a908ccdaf4 
+14:59:31.540 [34mINFO [0;39m - /silly_zhukovsky: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+14:59:35.636 [34mINFO [0;39m - Container localhost/testcontainers/bkwcep9mwweawmfy:latest started in PT11.871S 
+14:59:35.638 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+14:59:35.678 [34mINFO [0;39m - Starting container with ID: 677f20b4469a1e5c1ef70c82aa2d6b44d359cf40784fa0dd2c4d6c992bda2733 
+14:59:36.078 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 677f20b4469a1e5c1ef70c82aa2d6b44d359cf40784fa0dd2c4d6c992bda2733 
+14:59:36.166 [34mINFO [0;39m - /suspicious_euler: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+14:59:37.848 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.21S 
+14:59:37.857 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+14:59:41.040 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/qusci5icp5zq5gua:latest 
+14:59:41.056 [34mINFO [0;39m - Starting container with ID: c4d1036dcf12e46c6d321c4632a523ab007db156cb2466a8cf74a0062e617e41 
+14:59:41.463 [34mINFO [0;39m - Container localhost/testcontainers/qusci5icp5zq5gua:latest is starting: c4d1036dcf12e46c6d321c4632a523ab007db156cb2466a8cf74a0062e617e41 
+14:59:41.472 [34mINFO [0;39m - Container localhost/testcontainers/qusci5icp5zq5gua:latest started in PT3.624S 

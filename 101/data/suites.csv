@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 12 14:58:42 GMT 2021","Fri Feb 12 14:59:23 GMT 2021","41050","","com.github.javister.docker.testing.openjdk.DirectImageIT","","com.github.javister.docker.testing.openjdk.DirectImageIT","proxyRequestTest","OpenJDK release: V8",""
+"passed","Fri Feb 12 14:59:23 GMT 2021","Fri Feb 12 14:59:46 GMT 2021","22516","","com.github.javister.docker.testing.openjdk.DirectImageIT","","com.github.javister.docker.testing.openjdk.DirectImageIT","proxyRequestTest","OpenJDK release: V11",""
+"passed","Fri Feb 12 14:59:50 GMT 2021","Fri Feb 12 14:59:55 GMT 2021","4424","","com.github.javister.docker.testing.openjdk.DirectImageIT","","com.github.javister.docker.testing.openjdk.DirectImageIT","debugTest","OpenJDK release: V11",""
+"passed","Fri Feb 12 14:59:46 GMT 2021","Fri Feb 12 14:59:50 GMT 2021","4456","","com.github.javister.docker.testing.openjdk.DirectImageIT","","com.github.javister.docker.testing.openjdk.DirectImageIT","debugTest","OpenJDK release: V8",""

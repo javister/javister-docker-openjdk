@@ -1,0 +1,16 @@
+15:07:52.852 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+15:08:00.061 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/nxj8hmbsrvvtcasm:latest 
+15:08:00.085 [34mINFO [0;39m - Starting container with ID: 677aaaa44121c6c4229acb9ce1d09a4503c1a3b0e320b12bd3b561edc449f283 
+15:08:00.576 [34mINFO [0;39m - Container localhost/testcontainers/nxj8hmbsrvvtcasm:latest is starting: 677aaaa44121c6c4229acb9ce1d09a4503c1a3b0e320b12bd3b561edc449f283 
+15:08:00.599 [34mINFO [0;39m - /romantic_lichterman: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+15:08:04.690 [34mINFO [0;39m - Container localhost/testcontainers/nxj8hmbsrvvtcasm:latest started in PT12.386S 
+15:08:04.690 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+15:08:04.728 [34mINFO [0;39m - Starting container with ID: 4253364475c589bfb3a4334f26c9579dbbbe790ed49ddb591c14b0ab80d51691 
+15:08:05.142 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 4253364475c589bfb3a4334f26c9579dbbbe790ed49ddb591c14b0ab80d51691 
+15:08:05.222 [34mINFO [0;39m - /trusting_villani: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+15:08:06.889 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.199S 
+15:08:06.895 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+15:08:10.030 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/uhtf2eprwmakxnfv:latest 
+15:08:10.042 [34mINFO [0;39m - Starting container with ID: d0484f10c6e040d0da8e2b3c8d9ae638483361851790d666f667196536f02b1b 
+15:08:10.500 [34mINFO [0;39m - Container localhost/testcontainers/uhtf2eprwmakxnfv:latest is starting: d0484f10c6e040d0da8e2b3c8d9ae638483361851790d666f667196536f02b1b 
+15:08:10.507 [34mINFO [0;39m - Container localhost/testcontainers/uhtf2eprwmakxnfv:latest started in PT3.617S 

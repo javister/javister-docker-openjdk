@@ -1,0 +1,11 @@
+14:54:26.659 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+14:54:26.677 [34mINFO [0;39m - Creating container for image: testcontainers/e95izvejo5hhvasc:latest 
+14:54:26.702 [34mINFO [0;39m - Starting container with ID: 245ba1db974d763d8c581b9fb413958f232bea8209a01f607f4b78208a18d10c 
+14:54:27.113 [34mINFO [0;39m - Container testcontainers/e95izvejo5hhvasc:latest is starting: 245ba1db974d763d8c581b9fb413958f232bea8209a01f607f4b78208a18d10c 
+14:54:27.122 [34mINFO [0;39m - 
+****************************************************
+******  DEBUG ADDRESS: localhost:49162 *************
+****************************************************
+ 
+14:54:27.127 [34mINFO [0;39m - /elastic_jang: Waiting for 60 seconds for URL: http://localhost:49163/ 
+14:54:30.237 [34mINFO [0;39m - Container testcontainers/e95izvejo5hhvasc:latest started in PT4.066S 

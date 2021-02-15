@@ -1,0 +1,16 @@
+09:05:15.813 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:05:23.043 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/autmpwhqfvpufwpn:latest 
+09:05:23.074 [34mINFO [0;39m - Starting container with ID: d01a429829efd7f613b6a75c1c4e889bc7ef4665c687632b098b2a44edcc29fb 
+09:05:23.531 [34mINFO [0;39m - Container localhost/testcontainers/autmpwhqfvpufwpn:latest is starting: d01a429829efd7f613b6a75c1c4e889bc7ef4665c687632b098b2a44edcc29fb 
+09:05:23.549 [34mINFO [0;39m - /pedantic_chaum: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+09:05:27.642 [34mINFO [0;39m - Container localhost/testcontainers/autmpwhqfvpufwpn:latest started in PT12.459S 
+09:05:27.643 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:05:27.680 [34mINFO [0;39m - Starting container with ID: 479ac775df2d0152ba1cc8f935740a727e267ae4eda20c6a0caec4340188d206 
+09:05:28.058 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 479ac775df2d0152ba1cc8f935740a727e267ae4eda20c6a0caec4340188d206 
+09:05:28.146 [34mINFO [0;39m - /modest_napier: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+09:05:29.815 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.172S 
+09:05:29.828 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:05:32.031 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/4my6xckvlbto5bws:latest 
+09:05:32.053 [34mINFO [0;39m - Starting container with ID: 617552e84a6eab7ff6fb08fd0fcfb0d88a07290cb5d45973f1db97d2e90148e3 
+09:05:32.441 [34mINFO [0;39m - Container localhost/testcontainers/4my6xckvlbto5bws:latest is starting: 617552e84a6eab7ff6fb08fd0fcfb0d88a07290cb5d45973f1db97d2e90148e3 
+09:05:32.451 [34mINFO [0;39m - Container localhost/testcontainers/4my6xckvlbto5bws:latest started in PT2.635S 

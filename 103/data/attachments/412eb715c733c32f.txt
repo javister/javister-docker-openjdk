@@ -1,0 +1,16 @@
+07:57:28.318 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+07:57:35.041 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/lkev6usvyfpcyypd:latest 
+07:57:35.092 [34mINFO [0;39m - Starting container with ID: de87158f0cd5c03e8eb9cad9579154321deff4b9500c559f6709e8353c95128d 
+07:57:35.609 [34mINFO [0;39m - Container localhost/testcontainers/lkev6usvyfpcyypd:latest is starting: de87158f0cd5c03e8eb9cad9579154321deff4b9500c559f6709e8353c95128d 
+07:57:35.622 [34mINFO [0;39m - /vigorous_saha: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 8080) 
+07:57:39.707 [34mINFO [0;39m - Container localhost/testcontainers/lkev6usvyfpcyypd:latest started in PT11.888S 
+07:57:39.708 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+07:57:39.737 [34mINFO [0;39m - Starting container with ID: dba0afadcef54ce52da3f4dff316c97f3a2432f87d017e687ada7e1500fc291b 
+07:57:40.094 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: dba0afadcef54ce52da3f4dff316c97f3a2432f87d017e687ada7e1500fc291b 
+07:57:40.218 [34mINFO [0;39m - /nervous_agnesi: Waiting for 60 seconds for URL: http://localhost:49160/ (where port 49160 maps to container port 1080) 
+07:57:41.894 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.186S 
+07:57:41.906 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+07:57:45.039 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/szqgvgdboc3mdqww:latest 
+07:57:45.062 [34mINFO [0;39m - Starting container with ID: 718431c9c66c2666b983e9ed8a34e0ab052b031c16093835fa67d7d0f87c8240 
+07:57:45.410 [34mINFO [0;39m - Container localhost/testcontainers/szqgvgdboc3mdqww:latest is starting: 718431c9c66c2666b983e9ed8a34e0ab052b031c16093835fa67d7d0f87c8240 
+07:57:45.414 [34mINFO [0;39m - Container localhost/testcontainers/szqgvgdboc3mdqww:latest started in PT3.519S 

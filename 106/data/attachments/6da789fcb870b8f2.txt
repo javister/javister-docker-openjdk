@@ -1,0 +1,16 @@
+13:53:55.070 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+13:54:02.045 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/jldmgpzfjg2wpgd7:latest 
+13:54:02.076 [34mINFO [0;39m - Starting container with ID: 97377d6bb8f96259d823b4320da52e1f287ae98dfdabee07120c21550f9a40c1 
+13:54:02.530 [34mINFO [0;39m - Container localhost/testcontainers/jldmgpzfjg2wpgd7:latest is starting: 97377d6bb8f96259d823b4320da52e1f287ae98dfdabee07120c21550f9a40c1 
+13:54:02.538 [34mINFO [0;39m - /quirky_yonath: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 8080) 
+13:54:06.640 [34mINFO [0;39m - Container localhost/testcontainers/jldmgpzfjg2wpgd7:latest started in PT12.195S 
+13:54:06.640 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+13:54:06.694 [34mINFO [0;39m - Starting container with ID: a73e6d3fb3c10b85dbd5f9a80ac32e17abe52baad281f9fcde3a43e3f903fa7f 
+13:54:07.118 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: a73e6d3fb3c10b85dbd5f9a80ac32e17abe52baad281f9fcde3a43e3f903fa7f 
+13:54:07.253 [34mINFO [0;39m - /kind_rhodes: Waiting for 60 seconds for URL: http://localhost:49160/ (where port 49160 maps to container port 1080) 
+13:54:08.818 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.178S 
+13:54:08.825 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+13:54:11.033 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/zff214mrrzcvo9o2:latest 
+13:54:11.056 [34mINFO [0;39m - Starting container with ID: 0256f86391edf3559e4d07f90ed5ce3bb428a9fd16227370f02aeb2cca17b76c 
+13:54:11.414 [34mINFO [0;39m - Container localhost/testcontainers/zff214mrrzcvo9o2:latest is starting: 0256f86391edf3559e4d07f90ed5ce3bb428a9fd16227370f02aeb2cca17b76c 
+13:54:11.419 [34mINFO [0;39m - Container localhost/testcontainers/zff214mrrzcvo9o2:latest started in PT2.6S 

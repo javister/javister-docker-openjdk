@@ -1,0 +1,31 @@
+19:54:46.145 [31mWARN [0;39m - Attempted to read Testcontainers configuration file at file:/home/runner/.testcontainers.properties but the file was not found. Exception message: FileNotFoundException: /home/runner/.testcontainers.properties (No such file or directory) 
+19:54:46.163 [34mINFO [0;39m - docker-machine executable was not found on PATH ([/opt/hostedtoolcache/jdk/8.0.282/x64/bin, /home/linuxbrew/.linuxbrew/bin, /home/linuxbrew/.linuxbrew/sbin, /opt/pipx_bin, /usr/share/rust/.cargo/bin, /home/runner/.config/composer/vendor/bin, /usr/local/.ghcup/bin, /home/runner/.dotnet/tools, /snap/bin, /usr/local/sbin, /usr/local/bin, /usr/sbin, /usr/bin, /sbin, /bin, /usr/games, /usr/local/games, /snap/bin]) 
+19:54:46.908 [34mINFO [0;39m - Found Docker environment with local Unix socket (unix:///var/run/docker.sock) 
+19:54:46.914 [34mINFO [0;39m - Docker host IP address is localhost 
+19:54:46.954 [34mINFO [0;39m - Connected to docker: 
+  Server Version: 20.10.3+azure
+  API Version: 1.41
+  Operating System: Ubuntu 20.04.2 LTS
+  Total Memory: 6954 MB 
+19:54:46.959 [34mINFO [0;39m - Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor') 
+19:54:50.957 [34mINFO [0;39m - Ryuk started - will monitor and terminate Testcontainers containers on JVM exit 
+19:54:50.958 [34mINFO [0;39m - Checking the system... 
+19:54:50.959 [34mINFO [0;39m - ✔︎ Docker server version should be at least 1.6.0 
+19:54:51.349 [34mINFO [0;39m - ✔︎ Docker environment should have more than 2GB free disk space 
+19:54:52.122 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+19:54:59.132 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/pffrbhxdmw4kq3hx:latest 
+19:54:59.213 [34mINFO [0;39m - Starting container with ID: 926b11bc7cfc25269348749e6d6042a5ba2c7c7f19c627d8485ea4be2547e69b 
+19:54:59.761 [34mINFO [0;39m - Container localhost/testcontainers/pffrbhxdmw4kq3hx:latest is starting: 926b11bc7cfc25269348749e6d6042a5ba2c7c7f19c627d8485ea4be2547e69b 
+19:54:59.803 [34mINFO [0;39m - /vibrant_faraday: Waiting for 60 seconds for URL: http://localhost:49154/ (where port 49154 maps to container port 8080) 
+19:55:03.950 [34mINFO [0;39m - Container localhost/testcontainers/pffrbhxdmw4kq3hx:latest started in PT12.404S 
+19:55:03.956 [34mINFO [0;39m - Pulling docker image: jamesdbloom/mockserver:mockserver-5.11.1. Please be patient; this may take some time but only needs to be done once. 
+19:55:09.359 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+19:55:12.479 [34mINFO [0;39m - Starting container with ID: 51b2f42deea2a40a0a9ae3731a9240f1311a8e7cc7a155a44eb88489ae6fca32 
+19:55:12.965 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 51b2f42deea2a40a0a9ae3731a9240f1311a8e7cc7a155a44eb88489ae6fca32 
+19:55:13.083 [34mINFO [0;39m - /frosty_cray: Waiting for 60 seconds for URL: http://localhost:49155/ (where port 49155 maps to container port 1080) 
+19:55:15.378 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT11.426S 
+19:55:15.403 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+19:55:18.046 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/n4k7qkufsdx7tw9o:latest 
+19:55:18.085 [34mINFO [0;39m - Starting container with ID: 0808978add28ea997f1acde7308119ae276b83d1c58a7589136ebd3a11cb6e13 
+19:55:18.555 [34mINFO [0;39m - Container localhost/testcontainers/n4k7qkufsdx7tw9o:latest is starting: 0808978add28ea997f1acde7308119ae276b83d1c58a7589136ebd3a11cb6e13 
+19:55:18.574 [34mINFO [0;39m - Container localhost/testcontainers/n4k7qkufsdx7tw9o:latest started in PT3.188S 

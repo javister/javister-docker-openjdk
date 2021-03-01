@@ -1,0 +1,16 @@
+19:55:28.184 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+19:55:35.074 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/7yorfdcwpxutm9fe:latest 
+19:55:35.095 [34mINFO [0;39m - Starting container with ID: 5d9e183151eef2e5569fc2950707b16ef87360b8e09d789cbf533c1323ae558f 
+19:55:35.587 [34mINFO [0;39m - Container localhost/testcontainers/7yorfdcwpxutm9fe:latest is starting: 5d9e183151eef2e5569fc2950707b16ef87360b8e09d789cbf533c1323ae558f 
+19:55:35.599 [34mINFO [0;39m - /sleepy_leakey: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+19:55:39.703 [34mINFO [0;39m - Container localhost/testcontainers/7yorfdcwpxutm9fe:latest started in PT12.126S 
+19:55:39.704 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+19:55:39.732 [34mINFO [0;39m - Starting container with ID: 050c52280679e148bbce5609a3721c844957188e9cbd200f7355a2924e6cddb5 
+19:55:40.167 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 050c52280679e148bbce5609a3721c844957188e9cbd200f7355a2924e6cddb5 
+19:55:40.250 [34mINFO [0;39m - /cranky_kepler: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+19:55:41.885 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.182S 
+19:55:41.899 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+19:55:45.035 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/1gw2lp7fcaajwsyf:latest 
+19:55:45.066 [34mINFO [0;39m - Starting container with ID: 09b5d7fb7da1ec557b0ad66a899c5c47f689ed9798422420c25fa6b51934e3f4 
+19:55:45.472 [34mINFO [0;39m - Container localhost/testcontainers/1gw2lp7fcaajwsyf:latest is starting: 09b5d7fb7da1ec557b0ad66a899c5c47f689ed9798422420c25fa6b51934e3f4 
+19:55:45.486 [34mINFO [0;39m - Container localhost/testcontainers/1gw2lp7fcaajwsyf:latest started in PT3.6S 

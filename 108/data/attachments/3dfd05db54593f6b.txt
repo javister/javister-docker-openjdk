@@ -1,0 +1,16 @@
+10:04:45.326 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:04:52.043 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/djhdwfhwv4smwvqs:latest 
+10:04:52.073 [34mINFO [0;39m - Starting container with ID: 3a31a2efc0d53b3908137b2438318fdc0b2f22f91d9d7879f22f37cf97a06022 
+10:04:52.753 [34mINFO [0;39m - Container localhost/testcontainers/djhdwfhwv4smwvqs:latest is starting: 3a31a2efc0d53b3908137b2438318fdc0b2f22f91d9d7879f22f37cf97a06022 
+10:04:52.758 [34mINFO [0;39m - /zealous_jackson: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+10:04:56.847 [34mINFO [0;39m - Container localhost/testcontainers/djhdwfhwv4smwvqs:latest started in PT12.131S 
+10:04:56.847 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:04:56.879 [34mINFO [0;39m - Starting container with ID: bb898c17791019f91223a7b84c4dc8324e4bd4b163d0349ae95082b7ef7b138a 
+10:04:57.457 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: bb898c17791019f91223a7b84c4dc8324e4bd4b163d0349ae95082b7ef7b138a 
+10:04:57.527 [34mINFO [0;39m - /competent_chebyshev: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+10:04:59.036 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.189S 
+10:04:59.041 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:05:02.037 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/cbhxfcatsv7wrkdb:latest 
+10:05:02.059 [34mINFO [0;39m - Starting container with ID: ace696535cfcbea6c31b87b5b44b716c5499959ee863503ab01f8ab2955425b1 
+10:05:02.567 [34mINFO [0;39m - Container localhost/testcontainers/cbhxfcatsv7wrkdb:latest is starting: ace696535cfcbea6c31b87b5b44b716c5499959ee863503ab01f8ab2955425b1 
+10:05:02.577 [34mINFO [0;39m - Container localhost/testcontainers/cbhxfcatsv7wrkdb:latest started in PT3.54S 

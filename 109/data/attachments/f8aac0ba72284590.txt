@@ -1,0 +1,16 @@
+10:26:03.732 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:26:10.047 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/cnevgfbfzjk6vl2y:latest 
+10:26:10.065 [34mINFO [0;39m - Starting container with ID: 9e3d60340c810a2ff9e0d3e3ee993be2f1d312b78daf01d48c3b351516ac642a 
+10:26:10.695 [34mINFO [0;39m - Container localhost/testcontainers/cnevgfbfzjk6vl2y:latest is starting: 9e3d60340c810a2ff9e0d3e3ee993be2f1d312b78daf01d48c3b351516ac642a 
+10:26:10.710 [34mINFO [0;39m - /objective_edison: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+10:26:13.804 [34mINFO [0;39m - Container localhost/testcontainers/cnevgfbfzjk6vl2y:latest started in PT10.484S 
+10:26:13.804 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:26:13.836 [34mINFO [0;39m - Starting container with ID: 44a441b0ff079718279af54084ff359c5207918839f134a150519e67d4802c9a 
+10:26:14.443 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 44a441b0ff079718279af54084ff359c5207918839f134a150519e67d4802c9a 
+10:26:14.558 [34mINFO [0;39m - /trusting_zhukovsky: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+10:26:16.010 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.206S 
+10:26:16.015 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:26:19.029 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/pitdfxpzbycaytyp:latest 
+10:26:19.044 [34mINFO [0;39m - Starting container with ID: 6db0a4822fd7d1c6c59768a1ba557fed203c385b4fcb2513f4f920e5d671d16b 
+10:26:19.529 [34mINFO [0;39m - Container localhost/testcontainers/pitdfxpzbycaytyp:latest is starting: 6db0a4822fd7d1c6c59768a1ba557fed203c385b4fcb2513f4f920e5d671d16b 
+10:26:19.537 [34mINFO [0;39m - Container localhost/testcontainers/pitdfxpzbycaytyp:latest started in PT3.526S 

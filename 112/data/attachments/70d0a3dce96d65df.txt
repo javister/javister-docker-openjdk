@@ -1,0 +1,16 @@
+10:31:52.099 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:31:59.053 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/gdpx9qxzgnrrhnpa:latest 
+10:31:59.090 [34mINFO [0;39m - Starting container with ID: 29bcaef38b2eb90c6af9d9426cafd6721e50c7ae909c077add93cfce5a5fd907 
+10:31:59.779 [34mINFO [0;39m - Container localhost/testcontainers/gdpx9qxzgnrrhnpa:latest is starting: 29bcaef38b2eb90c6af9d9426cafd6721e50c7ae909c077add93cfce5a5fd907 
+10:31:59.796 [34mINFO [0;39m - /jovial_torvalds: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 8080) 
+10:32:03.933 [34mINFO [0;39m - Container localhost/testcontainers/gdpx9qxzgnrrhnpa:latest started in PT12.491S 
+10:32:03.945 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:32:03.978 [34mINFO [0;39m - Starting container with ID: 3ef74c9526eea8b0e4c28fc668563dac99a701e10bb14b4dd4143b9c4538babf 
+10:32:04.654 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 3ef74c9526eea8b0e4c28fc668563dac99a701e10bb14b4dd4143b9c4538babf 
+10:32:04.850 [34mINFO [0;39m - /gallant_brattain: Waiting for 60 seconds for URL: http://localhost:49160/ (where port 49160 maps to container port 1080) 
+10:32:06.134 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.189S 
+10:32:06.145 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:32:09.034 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/hzjraltpswstcu7j:latest 
+10:32:09.063 [34mINFO [0;39m - Starting container with ID: 0dc0461cb3e54b52b4e37b1e30440ce93ed9b47f79815d291e3d679e9986b7b6 
+10:32:09.682 [34mINFO [0;39m - Container localhost/testcontainers/hzjraltpswstcu7j:latest is starting: 0dc0461cb3e54b52b4e37b1e30440ce93ed9b47f79815d291e3d679e9986b7b6 
+10:32:09.693 [34mINFO [0;39m - Container localhost/testcontainers/hzjraltpswstcu7j:latest started in PT3.555S 

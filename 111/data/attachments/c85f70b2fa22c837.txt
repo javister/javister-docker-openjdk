@@ -1,0 +1,16 @@
+10:19:16.062 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+10:19:23.045 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/mrmkr4yvrhhe37q4:latest 
+10:19:23.075 [34mINFO [0;39m - Starting container with ID: 3a61f7509c5383e7a68fcc4d48879902e108c8302cb0a32128fe413152a41caa 
+10:19:23.736 [34mINFO [0;39m - Container localhost/testcontainers/mrmkr4yvrhhe37q4:latest is starting: 3a61f7509c5383e7a68fcc4d48879902e108c8302cb0a32128fe413152a41caa 
+10:19:23.745 [34mINFO [0;39m - /friendly_jemison: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 8080) 
+10:19:27.888 [34mINFO [0;39m - Container localhost/testcontainers/mrmkr4yvrhhe37q4:latest started in PT12.243S 
+10:19:27.890 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+10:19:27.954 [34mINFO [0;39m - Starting container with ID: 4e90ba64e11f77566f182f9f8775be8e0f488e7cc118aa310826d6a313710668 
+10:19:28.616 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 4e90ba64e11f77566f182f9f8775be8e0f488e7cc118aa310826d6a313710668 
+10:19:28.863 [34mINFO [0;39m - /serene_pascal: Waiting for 60 seconds for URL: http://localhost:49160/ (where port 49160 maps to container port 1080) 
+10:19:30.084 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.194S 
+10:19:30.093 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+10:19:33.034 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/eabzteukzda6h8hj:latest 
+10:19:33.055 [34mINFO [0;39m - Starting container with ID: 94441a119d6ddeee5344a200b58faf65de1b84733a2837245b8ff465de175f03 
+10:19:33.593 [34mINFO [0;39m - Container localhost/testcontainers/eabzteukzda6h8hj:latest is starting: 94441a119d6ddeee5344a200b58faf65de1b84733a2837245b8ff465de175f03 
+10:19:33.602 [34mINFO [0;39m - Container localhost/testcontainers/eabzteukzda6h8hj:latest started in PT3.518S 

@@ -1,0 +1,16 @@
+08:53:44.096 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+08:53:51.049 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/flrtqvx1x9ykwyfo:latest 
+08:53:51.075 [34mINFO [0;39m - Starting container with ID: 44fdfb3f31cd13022a971e9b93489d4bf4bcde8940e6c53b8067debb457f5ac1 
+08:53:51.740 [34mINFO [0;39m - Container localhost/testcontainers/flrtqvx1x9ykwyfo:latest is starting: 44fdfb3f31cd13022a971e9b93489d4bf4bcde8940e6c53b8067debb457f5ac1 
+08:53:51.759 [34mINFO [0;39m - /festive_shtern: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+08:53:55.863 [34mINFO [0;39m - Container localhost/testcontainers/flrtqvx1x9ykwyfo:latest started in PT12.276S 
+08:53:55.874 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+08:53:55.904 [34mINFO [0;39m - Starting container with ID: a4cc3b5fab59f5e19a92a26c6af4a86b7ca93871a9c838c1ce82f927d4b823b4 
+08:53:56.537 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: a4cc3b5fab59f5e19a92a26c6af4a86b7ca93871a9c838c1ce82f927d4b823b4 
+08:53:56.654 [34mINFO [0;39m - /hopeful_bhaskara: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+08:53:58.044 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.171S 
+08:53:58.048 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+08:54:01.035 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/nshwvgjjyfrgp3sq:latest 
+08:54:01.056 [34mINFO [0;39m - Starting container with ID: 3355a7ac852960351f8e020f1ace9096b5acc8ee701fb3f7eaa89be1980ce89a 
+08:54:01.610 [34mINFO [0;39m - Container localhost/testcontainers/nshwvgjjyfrgp3sq:latest is starting: 3355a7ac852960351f8e020f1ace9096b5acc8ee701fb3f7eaa89be1980ce89a 
+08:54:01.629 [34mINFO [0;39m - Container localhost/testcontainers/nshwvgjjyfrgp3sq:latest started in PT3.585S 

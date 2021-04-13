@@ -1,0 +1,16 @@
+09:05:35.930 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:05:43.049 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/71oohucwyjpjpzqq:latest 
+09:05:43.079 [34mINFO [0;39m - Starting container with ID: 34294e55ee896eb2d42eaeada96cd6683401491307bc34bcfac9fc5c6d4f9baa 
+09:05:43.748 [34mINFO [0;39m - Container localhost/testcontainers/71oohucwyjpjpzqq:latest is starting: 34294e55ee896eb2d42eaeada96cd6683401491307bc34bcfac9fc5c6d4f9baa 
+09:05:43.766 [34mINFO [0;39m - /angry_hodgkin: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+09:05:47.877 [34mINFO [0;39m - Container localhost/testcontainers/71oohucwyjpjpzqq:latest started in PT12.485S 
+09:05:47.884 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:05:47.917 [34mINFO [0;39m - Starting container with ID: 2d271ad8134ade7bea127611614307ab898624ae218e7f7534a046bbf8c8ef79 
+09:05:48.569 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 2d271ad8134ade7bea127611614307ab898624ae218e7f7534a046bbf8c8ef79 
+09:05:48.674 [34mINFO [0;39m - /unruffled_jackson: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+09:05:50.044 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.161S 
+09:05:50.057 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:05:53.034 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/jqoqbskd7tatkzwv:latest 
+09:05:53.084 [34mINFO [0;39m - Starting container with ID: e2670efd0c85cfa96ef0a4c0aa82c95f09a27e8ebf176aec39e41335f5143c51 
+09:05:53.647 [34mINFO [0;39m - Container localhost/testcontainers/jqoqbskd7tatkzwv:latest is starting: e2670efd0c85cfa96ef0a4c0aa82c95f09a27e8ebf176aec39e41335f5143c51 
+09:05:53.656 [34mINFO [0;39m - Container localhost/testcontainers/jqoqbskd7tatkzwv:latest started in PT3.612S 

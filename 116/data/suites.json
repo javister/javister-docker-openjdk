@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "com.github.javister.docker.testing.openjdk.DirectImageIT",
+    "children" : [ {
+      "name" : "OpenJDK release: V8",
+      "uid" : "8d20e54d70456ee0",
+      "parentUid" : "8b3307e0f53251df237c906e7789e544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620627988376,
+        "stop" : 1620628026572,
+        "duration" : 38196
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OpenJDK release: V11",
+      "uid" : "6863582a00a7697a",
+      "parentUid" : "8b3307e0f53251df237c906e7789e544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620628026695,
+        "stop" : 1620628049088,
+        "duration" : 22393
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OpenJDK release: V8",
+      "uid" : "d19ccdabcb390e7a",
+      "parentUid" : "8b3307e0f53251df237c906e7789e544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620628049124,
+        "stop" : 1620628053771,
+        "duration" : 4647
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OpenJDK release: V11",
+      "uid" : "8a5490febeac054",
+      "parentUid" : "8b3307e0f53251df237c906e7789e544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620628053802,
+        "stop" : 1620628058464,
+        "duration" : 4662
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8b3307e0f53251df237c906e7789e544"
+  } ],
+  "name" : "suites"
+}

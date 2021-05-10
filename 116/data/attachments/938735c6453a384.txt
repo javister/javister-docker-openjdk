@@ -1,0 +1,16 @@
+06:27:07.489 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+06:27:14.057 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/ytwxmfne9jpwch28:latest 
+06:27:14.077 [34mINFO [0;39m - Starting container with ID: 979d668e92f5a1c03589fa545f12a047668e4d4a6cf40d8af12bc51d0360890b 
+06:27:14.737 [34mINFO [0;39m - Container localhost/testcontainers/ytwxmfne9jpwch28:latest is starting: 979d668e92f5a1c03589fa545f12a047668e4d4a6cf40d8af12bc51d0360890b 
+06:27:14.751 [34mINFO [0;39m - /intelligent_mayer: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+06:27:18.858 [34mINFO [0;39m - Container localhost/testcontainers/ytwxmfne9jpwch28:latest started in PT11.982S 
+06:27:18.859 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+06:27:18.904 [34mINFO [0;39m - Starting container with ID: 9fce8796ad617cf9e9a46859574b040cb5f5e853bf4c41556471a287fbc2a275 
+06:27:19.528 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 9fce8796ad617cf9e9a46859574b040cb5f5e853bf4c41556471a287fbc2a275 
+06:27:19.623 [34mINFO [0;39m - /goofy_brown: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+06:27:21.159 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.301S 
+06:27:21.170 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+06:27:24.031 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/nmfxzzqxbur4lxow:latest 
+06:27:24.057 [34mINFO [0;39m - Starting container with ID: 35f4e7402c6b2a22f3d7aaa685543454d5e8c8a0205016e25c395b60f75bd3f0 
+06:27:24.588 [34mINFO [0;39m - Container localhost/testcontainers/nmfxzzqxbur4lxow:latest is starting: 35f4e7402c6b2a22f3d7aaa685543454d5e8c8a0205016e25c395b60f75bd3f0 
+06:27:24.605 [34mINFO [0;39m - Container localhost/testcontainers/nmfxzzqxbur4lxow:latest started in PT3.446S 

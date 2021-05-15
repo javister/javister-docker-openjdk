@@ -1,0 +1,16 @@
+19:06:42.095 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+19:06:49.052 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/eeiajer13egdxr9j:latest 
+19:06:49.078 [34mINFO [0;39m - Starting container with ID: b1c0f88495f28bd7d6545c42fbfc4b71e79e8cdf469e378c00586939ba891b1f 
+19:06:49.599 [34mINFO [0;39m - Container localhost/testcontainers/eeiajer13egdxr9j:latest is starting: b1c0f88495f28bd7d6545c42fbfc4b71e79e8cdf469e378c00586939ba891b1f 
+19:06:49.617 [34mINFO [0;39m - /objective_darwin: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+19:06:53.704 [34mINFO [0;39m - Container localhost/testcontainers/eeiajer13egdxr9j:latest started in PT12.075S 
+19:06:53.705 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+19:06:53.734 [34mINFO [0;39m - Starting container with ID: 5303dae8aba51f17e95f2252c2e92322ca74423b21ca36e5b31af00f5601514a 
+19:06:54.202 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 5303dae8aba51f17e95f2252c2e92322ca74423b21ca36e5b31af00f5601514a 
+19:06:54.306 [34mINFO [0;39m - /eloquent_khayyam: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+19:06:55.992 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.287S 
+19:06:55.997 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+19:06:59.032 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/qtnekbeeikzndjbl:latest 
+19:06:59.060 [34mINFO [0;39m - Starting container with ID: c17edca94542f3e84f2359d8ea7ad1584dc785b70415711186d2fa18a0515e87 
+19:06:59.472 [34mINFO [0;39m - Container localhost/testcontainers/qtnekbeeikzndjbl:latest is starting: c17edca94542f3e84f2359d8ea7ad1584dc785b70415711186d2fa18a0515e87 
+19:06:59.488 [34mINFO [0;39m - Container localhost/testcontainers/qtnekbeeikzndjbl:latest started in PT3.496S 

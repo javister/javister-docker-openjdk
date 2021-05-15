@@ -1,0 +1,16 @@
+19:17:38.604 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+19:17:45.044 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/vrrawdwrhtbahwrs:latest 
+19:17:45.075 [34mINFO [0;39m - Starting container with ID: 60047d55f0bc85d2910bfc427ed5a74d0990d772885e17f70a04d281b5537e05 
+19:17:45.558 [34mINFO [0;39m - Container localhost/testcontainers/vrrawdwrhtbahwrs:latest is starting: 60047d55f0bc85d2910bfc427ed5a74d0990d772885e17f70a04d281b5537e05 
+19:17:45.572 [34mINFO [0;39m - /nifty_solomon: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+19:17:49.708 [34mINFO [0;39m - Container localhost/testcontainers/vrrawdwrhtbahwrs:latest started in PT11.594S 
+19:17:49.720 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+19:17:49.759 [34mINFO [0;39m - Starting container with ID: 27c8d66644a2845c563824ac3a01cd889e4b295f6fa58f96016e1a1ca61527bd 
+19:17:50.210 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 27c8d66644a2845c563824ac3a01cd889e4b295f6fa58f96016e1a1ca61527bd 
+19:17:50.298 [34mINFO [0;39m - /admiring_rosalind: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+19:17:51.941 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.221S 
+19:17:51.953 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+19:17:55.047 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/9w2zg6cgprctxxmi:latest 
+19:17:55.064 [34mINFO [0;39m - Starting container with ID: 4034e5eca030b445b75b56c6329a03bb7a840f953f3af251911925ff8ec43ef5 
+19:17:55.433 [34mINFO [0;39m - Container localhost/testcontainers/9w2zg6cgprctxxmi:latest is starting: 4034e5eca030b445b75b56c6329a03bb7a840f953f3af251911925ff8ec43ef5 
+19:17:55.454 [34mINFO [0;39m - Container localhost/testcontainers/9w2zg6cgprctxxmi:latest started in PT3.51S 

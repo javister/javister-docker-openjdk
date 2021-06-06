@@ -1,0 +1,16 @@
+07:37:51.002 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+07:37:58.034 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/ayxudafkpurvnbxn:latest 
+07:37:58.057 [34mINFO [0;39m - Starting container with ID: e5a53c989000df14e26053499899eb226c1c58b4658145aefb3c37c4751253e0 
+07:37:58.499 [34mINFO [0;39m - Container localhost/testcontainers/ayxudafkpurvnbxn:latest is starting: e5a53c989000df14e26053499899eb226c1c58b4658145aefb3c37c4751253e0 
+07:37:58.505 [34mINFO [0;39m - /jovial_northcutt: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+07:38:01.593 [34mINFO [0;39m - Container localhost/testcontainers/ayxudafkpurvnbxn:latest started in PT11.05S 
+07:38:01.593 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+07:38:01.634 [34mINFO [0;39m - Starting container with ID: a6ea084901f5b5b989dccbb609807d7e268007e81eebc81dc33ad89e6b0c89f5 
+07:38:02.046 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: a6ea084901f5b5b989dccbb609807d7e268007e81eebc81dc33ad89e6b0c89f5 
+07:38:02.121 [34mINFO [0;39m - /zen_saha: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+07:38:03.826 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.233S 
+07:38:03.838 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+07:38:06.030 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/gwfzfflqrxbclkxe:latest 
+07:38:06.048 [34mINFO [0;39m - Starting container with ID: a94b43c03991e220cb371bd1b0209fb7543b4799a46252622aff11b9adf5f747 
+07:38:06.435 [34mINFO [0;39m - Container localhost/testcontainers/gwfzfflqrxbclkxe:latest is starting: a94b43c03991e220cb371bd1b0209fb7543b4799a46252622aff11b9adf5f747 
+07:38:06.456 [34mINFO [0;39m - Container localhost/testcontainers/gwfzfflqrxbclkxe:latest started in PT2.629S 

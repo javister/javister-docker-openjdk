@@ -1,0 +1,16 @@
+09:28:19.239 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:28:26.049 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/nfem2s2vkbzoiesk:latest 
+09:28:26.076 [34mINFO [0;39m - Starting container with ID: d71b81a7a751de9b54204f790bd6949372b7d4632c7af34d5be059b18d5d6dbe 
+09:28:26.577 [34mINFO [0;39m - Container localhost/testcontainers/nfem2s2vkbzoiesk:latest is starting: d71b81a7a751de9b54204f790bd6949372b7d4632c7af34d5be059b18d5d6dbe 
+09:28:26.593 [34mINFO [0;39m - /admiring_hofstadter: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+09:28:30.727 [34mINFO [0;39m - Container localhost/testcontainers/nfem2s2vkbzoiesk:latest started in PT12.062S 
+09:28:30.727 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:28:30.767 [34mINFO [0;39m - Starting container with ID: e493aea238d8d5e548cf1df0ba526ce1f3470d28b7ad7cff50d0fba84e345f1b 
+09:28:31.260 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: e493aea238d8d5e548cf1df0ba526ce1f3470d28b7ad7cff50d0fba84e345f1b 
+09:28:31.359 [34mINFO [0;39m - /ecstatic_pare: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+09:28:32.986 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.259S 
+09:28:32.996 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:28:36.040 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/stshp7emsdvzyv4k:latest 
+09:28:36.064 [34mINFO [0;39m - Starting container with ID: c1dd9ca49b2b60e54a07817be14f39b5c756c5cf6d2040d8dcf0f423023ddd48 
+09:28:36.451 [34mINFO [0;39m - Container localhost/testcontainers/stshp7emsdvzyv4k:latest is starting: c1dd9ca49b2b60e54a07817be14f39b5c756c5cf6d2040d8dcf0f423023ddd48 
+09:28:36.459 [34mINFO [0;39m - Container localhost/testcontainers/stshp7emsdvzyv4k:latest started in PT3.473S 

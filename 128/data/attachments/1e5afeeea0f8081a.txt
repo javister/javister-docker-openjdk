@@ -1,0 +1,16 @@
+12:34:14.240 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+12:34:21.045 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/c7bx5ho8iykxhtmg:latest 
+12:34:21.075 [34mINFO [0;39m - Starting container with ID: be3ed6cc06184a27cd572c45af582356df9dc69a1f46d2d15f3a37b458801c88 
+12:34:21.564 [34mINFO [0;39m - Container localhost/testcontainers/c7bx5ho8iykxhtmg:latest is starting: be3ed6cc06184a27cd572c45af582356df9dc69a1f46d2d15f3a37b458801c88 
+12:34:21.583 [34mINFO [0;39m - /frosty_kilby: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+12:34:25.764 [34mINFO [0;39m - Container localhost/testcontainers/c7bx5ho8iykxhtmg:latest started in PT12.041S 
+12:34:25.766 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+12:34:25.788 [34mINFO [0;39m - Starting container with ID: 6ad71e2b8346116074d4801a0dce947fa098d98be1cb3d090c42d1eccefbb14b 
+12:34:26.265 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 6ad71e2b8346116074d4801a0dce947fa098d98be1cb3d090c42d1eccefbb14b 
+12:34:26.356 [34mINFO [0;39m - /competent_liskov: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+12:34:28.017 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.251S 
+12:34:28.041 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+12:34:31.038 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/5dexbp77jfhnnufx:latest 
+12:34:31.063 [34mINFO [0;39m - Starting container with ID: f4761aa83263b729543c1693be799b85f0a6f435097c8f8d0fbb51b6428773c0 
+12:34:31.433 [34mINFO [0;39m - Container localhost/testcontainers/5dexbp77jfhnnufx:latest is starting: f4761aa83263b729543c1693be799b85f0a6f435097c8f8d0fbb51b6428773c0 
+12:34:31.448 [34mINFO [0;39m - Container localhost/testcontainers/5dexbp77jfhnnufx:latest started in PT3.43S 

@@ -8,6 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testcontainers.containers.output.OutputFrame;
 import org.testcontainers.containers.output.WaitingConsumer;
+import org.testcontainers.utility.DockerImageName;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.RuntimeMXBean;
@@ -104,6 +105,12 @@ public class JavisterOpenJDKContainer<SELF extends JavisterOpenJDKContainer<SELF
 
     public JavisterOpenJDKContainer(Variant variant, String dockerImageName, String tag) {
         super(dockerImageName, tag);
+        this.variant = variant;
+        init();
+    }
+
+    public JavisterOpenJDKContainer(Variant variant, DockerImageName dockerImageName){
+        super(dockerImageName);
         this.variant = variant;
         init();
     }

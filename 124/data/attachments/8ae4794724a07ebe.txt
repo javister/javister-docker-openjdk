@@ -1,0 +1,16 @@
+08:50:29.317 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+08:50:36.044 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/j6orfj7ugziseqre:latest 
+08:50:36.076 [34mINFO [0;39m - Starting container with ID: be0849d3038d9be1c37cbb7c4a76b7b259123678248b204ca4a3fe1cb9b1bf49 
+08:50:36.534 [34mINFO [0;39m - Container localhost/testcontainers/j6orfj7ugziseqre:latest is starting: be0849d3038d9be1c37cbb7c4a76b7b259123678248b204ca4a3fe1cb9b1bf49 
+08:50:36.550 [34mINFO [0;39m - /hardcore_greider: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+08:50:40.684 [34mINFO [0;39m - Container localhost/testcontainers/j6orfj7ugziseqre:latest started in PT12.019S 
+08:50:40.685 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+08:50:40.730 [34mINFO [0;39m - Starting container with ID: 119dfc5e8ca81a8d8529eeae26beb43f050c3ffc0111ea17ed6dfd060e31299e 
+08:50:41.275 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 119dfc5e8ca81a8d8529eeae26beb43f050c3ffc0111ea17ed6dfd060e31299e 
+08:50:41.368 [34mINFO [0;39m - /upbeat_jemison: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+08:50:42.959 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.274S 
+08:50:42.967 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+08:50:46.039 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/unlzsnptndcxfhcl:latest 
+08:50:46.063 [34mINFO [0;39m - Starting container with ID: c318a17b83e94e3662d82872444472fc4bac0d0434096dcc8c834f567e8937b5 
+08:50:46.440 [34mINFO [0;39m - Container localhost/testcontainers/unlzsnptndcxfhcl:latest is starting: c318a17b83e94e3662d82872444472fc4bac0d0434096dcc8c834f567e8937b5 
+08:50:46.453 [34mINFO [0;39m - Container localhost/testcontainers/unlzsnptndcxfhcl:latest started in PT3.494S 

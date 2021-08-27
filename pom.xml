@@ -29,12 +29,12 @@
     <properties>
         <!-- Project Version -->
         <revision>1.8</revision>
-        <changelist>-SNAPSHOT</changelist>
+        <changelist></changelist>
         <sha1/>
         <!-- Settings -->
         <docker.image.artifactId>javister-docker-openjdk</docker.image.artifactId>
         <!-- Dependency versions -->
-        <javister-docker-base.version>2.11</javister-docker-base.version>
+        <javister-docker-base.version>2.12</javister-docker-base.version>
     </properties>
 
     <modules>

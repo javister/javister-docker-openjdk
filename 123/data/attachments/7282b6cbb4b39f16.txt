@@ -1,0 +1,16 @@
+08:27:47.403 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+08:27:54.059 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/vuzkcdhhvvannvvr:latest 
+08:27:54.101 [34mINFO [0;39m - Starting container with ID: 7399bdbfec084c53ded6c07e21f3f80ae704ed483660db06da927e7a82d3a5f4 
+08:27:54.596 [34mINFO [0;39m - Container localhost/testcontainers/vuzkcdhhvvannvvr:latest is starting: 7399bdbfec084c53ded6c07e21f3f80ae704ed483660db06da927e7a82d3a5f4 
+08:27:54.626 [34mINFO [0;39m - /wonderful_hypatia: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+08:27:58.754 [34mINFO [0;39m - Container localhost/testcontainers/vuzkcdhhvvannvvr:latest started in PT11.997S 
+08:27:58.756 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+08:27:58.797 [34mINFO [0;39m - Starting container with ID: a8cc425f40df971e16b9a8fab3c3c061cb55b07b7355152a5dfabb3e859edaaa 
+08:27:59.280 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: a8cc425f40df971e16b9a8fab3c3c061cb55b07b7355152a5dfabb3e859edaaa 
+08:27:59.394 [34mINFO [0;39m - /interesting_almeida: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+08:28:01.077 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.322S 
+08:28:01.089 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+08:28:04.033 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/frcc7livbzjqshxk:latest 
+08:28:04.060 [34mINFO [0;39m - Starting container with ID: 9fb5cfd0defde3b50d618f3aa0618db9c6d38f6830ac856c63ce9bb16a28309d 
+08:28:04.435 [34mINFO [0;39m - Container localhost/testcontainers/frcc7livbzjqshxk:latest is starting: 9fb5cfd0defde3b50d618f3aa0618db9c6d38f6830ac856c63ce9bb16a28309d 
+08:28:04.447 [34mINFO [0;39m - Container localhost/testcontainers/frcc7livbzjqshxk:latest started in PT3.368S 

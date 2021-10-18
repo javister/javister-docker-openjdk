@@ -1,0 +1,16 @@
+09:27:37.047 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:27:46.500 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/eyymwshqrs87kqdr:latest 
+09:27:46.534 [34mINFO [0;39m - Starting container with ID: dfed793521f8440fc910a2ede46eb9e5c95dd2e93773b92b0049176279900c51 
+09:27:47.077 [34mINFO [0;39m - Container localhost/testcontainers/eyymwshqrs87kqdr:latest is starting: dfed793521f8440fc910a2ede46eb9e5c95dd2e93773b92b0049176279900c51 
+09:27:47.138 [34mINFO [0;39m - /distracted_bhaskara: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+09:27:51.288 [34mINFO [0;39m - Container localhost/testcontainers/eyymwshqrs87kqdr:latest started in PT14.984S 
+09:27:51.289 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:27:51.335 [34mINFO [0;39m - Starting container with ID: 6b30326504e84935360234c59b13b62bbcf3b7eb007099e7116a9d5f41a1e515 
+09:27:51.804 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 6b30326504e84935360234c59b13b62bbcf3b7eb007099e7116a9d5f41a1e515 
+09:27:51.917 [34mINFO [0;39m - /loving_leakey: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+09:27:53.646 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.357S 
+09:27:53.664 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:27:56.031 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/kea9kg1s1tcjdzlz:latest 
+09:27:56.055 [34mINFO [0;39m - Starting container with ID: 391caced8b721dcc0ea19766997a3cc9bebe15ec2420a9e1369c40c05560639e 
+09:27:56.479 [34mINFO [0;39m - Container localhost/testcontainers/kea9kg1s1tcjdzlz:latest is starting: 391caced8b721dcc0ea19766997a3cc9bebe15ec2420a9e1369c40c05560639e 
+09:27:56.516 [34mINFO [0;39m - Container localhost/testcontainers/kea9kg1s1tcjdzlz:latest started in PT2.869S 

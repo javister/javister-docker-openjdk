@@ -1,0 +1,16 @@
+09:23:09.105 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:23:17.141 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/5vgfgusgytmxq4jc:latest 
+09:23:17.167 [34mINFO [0;39m - Starting container with ID: e34df3b5f265d1c03254c80264a68e11ccd5179a388814f05e9516618efb234d 
+09:23:17.669 [34mINFO [0;39m - Container localhost/testcontainers/5vgfgusgytmxq4jc:latest is starting: e34df3b5f265d1c03254c80264a68e11ccd5179a388814f05e9516618efb234d 
+09:23:17.690 [34mINFO [0;39m - /youthful_wozniak: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 8080) 
+09:23:21.838 [34mINFO [0;39m - Container localhost/testcontainers/5vgfgusgytmxq4jc:latest started in PT13.369S 
+09:23:21.839 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:23:21.869 [34mINFO [0;39m - Starting container with ID: 1572764688a31fe0c0501991dbd48151941d5a74deb16b2fbe3d5de215b34ff3 
+09:23:22.335 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: 1572764688a31fe0c0501991dbd48151941d5a74deb16b2fbe3d5de215b34ff3 
+09:23:22.604 [34mINFO [0;39m - /reverent_davinci: Waiting for 60 seconds for URL: http://localhost:49160/ (where port 49160 maps to container port 1080) 
+09:23:24.142 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.303S 
+09:23:24.153 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:23:27.037 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/syuhlbtpsvk8nzw2:latest 
+09:23:27.056 [34mINFO [0;39m - Starting container with ID: 160240a19eae03d346196745f26e3403ea7c2bbf782af90789f1c74e5ceac17c 
+09:23:27.540 [34mINFO [0;39m - Container localhost/testcontainers/syuhlbtpsvk8nzw2:latest is starting: 160240a19eae03d346196745f26e3403ea7c2bbf782af90789f1c74e5ceac17c 
+09:23:27.565 [34mINFO [0;39m - Container localhost/testcontainers/syuhlbtpsvk8nzw2:latest started in PT3.416S 

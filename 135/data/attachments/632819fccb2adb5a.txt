@@ -1,0 +1,16 @@
+09:24:05.523 [34mINFO [0;39m - Transferred 4 MB to Docker daemon 
+09:24:15.286 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/wqhvwkhtqytm7gwf:latest 
+09:24:15.329 [34mINFO [0;39m - Starting container with ID: 83a149b9e341548a2c87d4aa3ddabe8a666a883b2d7fe4a340b5f40035801e4f 
+09:24:15.966 [34mINFO [0;39m - Container localhost/testcontainers/wqhvwkhtqytm7gwf:latest is starting: 83a149b9e341548a2c87d4aa3ddabe8a666a883b2d7fe4a340b5f40035801e4f 
+09:24:16.010 [34mINFO [0;39m - /fervent_elgamal: Waiting for 60 seconds for URL: http://localhost:49157/ (where port 49157 maps to container port 8080) 
+09:24:20.188 [34mINFO [0;39m - Container localhost/testcontainers/wqhvwkhtqytm7gwf:latest started in PT15.43S 
+09:24:20.189 [34mINFO [0;39m - Creating container for image: jamesdbloom/mockserver:mockserver-5.11.1 
+09:24:20.218 [34mINFO [0;39m - Starting container with ID: e6f1ab085019d361af7daf55a7a47db4eddbd5f42dcdb652a4a2d200e072395d 
+09:24:20.758 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 is starting: e6f1ab085019d361af7daf55a7a47db4eddbd5f42dcdb652a4a2d200e072395d 
+09:24:20.873 [34mINFO [0;39m - /magical_blackburn: Waiting for 60 seconds for URL: http://localhost:49158/ (where port 49158 maps to container port 1080) 
+09:24:22.549 [34mINFO [0;39m - Container jamesdbloom/mockserver:mockserver-5.11.1 started in PT2.36S 
+09:24:22.553 [34mINFO [0;39m - Transferred 4 KB to Docker daemon 
+09:24:25.042 [34mINFO [0;39m - Creating container for image: localhost/testcontainers/ra7hny1ushswjsw2:latest 
+09:24:25.067 [34mINFO [0;39m - Starting container with ID: 4a47db1cb19c59dd0756230ad429cb6575cc7e72724e345c643eec94e5971f3c 
+09:24:25.671 [34mINFO [0;39m - Container localhost/testcontainers/ra7hny1ushswjsw2:latest is starting: 4a47db1cb19c59dd0756230ad429cb6575cc7e72724e345c643eec94e5971f3c 
+09:24:25.683 [34mINFO [0;39m - Container localhost/testcontainers/ra7hny1ushswjsw2:latest started in PT3.134S 
